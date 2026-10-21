@@ -2,15 +2,15 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 13 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
+共 15 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (2)
-- [游戏](#game) (2)
+- [游戏](#game) (3)
 - [产品界面](#ui-demo) (1)
 - [讲解](#explainer) (1)
-- [测试对比](#comparison) (7)
+- [测试对比](#comparison) (8)
 
 <a id="3d-scene"></a>
 
@@ -77,6 +77,30 @@ prompt: build a Flappy Bird clone
 - live score best score and play again
 
 used max reasoning with 1M context, one shot and it take 38 mins 👀
+```
+
+### 可玩的类我的世界3D体素沙盒游戏
+
+[@MAXdeg0](https://x.com/MAXdeg0/status/2112791024112140782) · 0:29 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112791024112140782/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112791024112140782?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+Built this Minecraft style voxel game with MiniMax M3.1 Flash
+
+Prompt: Build a playable 3D voxel sandbox
+
+-> Procedural terrain with hills and trees
+
+-> First person movement, jumping and sprinting
+
+-> Break and place blocks
+
+->Inventory and hotbar
+
+-> Day/night cycle
+
+Went from a prompt to a playable game running in the browser.
+
+link below to try it out
 ```
 
 <a id="ui-demo"></a>
@@ -230,4 +254,38 @@ minimax: ~$0.012 / opus 5.5: ~$0.14 -> same prompt, ~12x cheaper
 (est. from output length, minimax wrote 3x more code)
 
 no edits on either. judge the islands yourself
+```
+
+### 两款模型生成3D毛绒蜘蛛效果对比
+
+[@SamgreyAi](https://x.com/SamgreyAi/status/2112988681933926420) · 0:18 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112988681933926420/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112988681933926420?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+I gave two AI models the same prompt: “build a 3D plush spider.” One of them made me want to squeeze my screen.
+
+GPT-6 Astra vs. MiniMax M3.1 Flash.
+Same brief. No tweaks. No second attempts.
+Here’s what came back:
+
+🟣 GPT-6 Astra: a cute, cartoonish spider. Fun, but it felt like a toy.
+
+🟠 MiniMax M3.1 Flash: a fuzzy tarantula with soft fur, striped legs, and lighting that made it look genuinely squeezable.
+
+The hard part of this task isn’t the 3D geometry. It’s turning a word like “plush” into something you can see. Flash got it, and honestly, I didn’t expect that.
+
+But the spider isn’t the real story.
+
+Here’s why @MiniMax_AI M3.1 Flash is worth a look:
+
+⚡ 200+ tokens/sec output speed
+💻 Built for coding and complex software engineering
+🤖 Designed for multi-step agentic workflows
+💸 70% lower overall cost on agentic tasks vs. its predecessor, according to MiniMax
+
+Speed, capability, cost. Few models get all three right.
+My takeaway: benchmarks tell you what a model can do. A real challenge shows you what it will do when it counts.
+So skip the leaderboard today. Take one project you care about, give the same brief to two models, and compare.
+You’ll learn more in 10 minutes than from 10 comparison threads.
+
+Which two models should I put head-to-head next?
 ```
