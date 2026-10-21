@@ -73,6 +73,10 @@ def main():
     print(f'Previews: {made} made, {len(results) - made - len(failed)} kept, {len(failed)} failed; total {size / 1e6:.1f} MB.')
     for i, s in failed:
         print(f'  {i}: {s}', file=sys.stderr)
+    # Everything failed (e.g. no usable encoder): fail loudly instead of letting
+    # validate.py be the first to notice a run that produced nothing.
+    if failed and made == 0:
+        raise SystemExit(f'All {len(failed)} preview encodes failed')
 
 
 if __name__ == '__main__':
