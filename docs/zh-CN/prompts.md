@@ -2,13 +2,15 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 7 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
+共 13 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (2)
+- [游戏](#game) (2)
+- [产品界面](#ui-demo) (1)
 - [讲解](#explainer) (1)
-- [测试对比](#comparison) (4)
+- [测试对比](#comparison) (7)
 
 <a id="3d-scene"></a>
 
@@ -43,6 +45,64 @@ I will now try the same with MiniMax Code to see if there are differences.
 Prompt: make the most realistic water scene it could, in WebGPU, with a floating camera.
 
 Average of ~100 t/s  prose slower, code faster.
+```
+
+<a id="game"></a>
+
+## 游戏
+
+### 通过纯代码生成的登月着陆器游戏
+
+[@ivanfioravanti](https://x.com/ivanfioravanti/status/2112459195521896760) · 0:27 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112459195521896760/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112459195521896760?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+MiniMax M3.1 Flash is so much better than Space Bunny! RL continued through these weeks with feedback constantly fed to the training run itself.
+
+Here Lunar Lander! I know it seems trivial, but try with past generation models.
+Prompt below 👇
+```
+
+### Flappy Bird复刻游戏
+
+[@k2sbhai](https://x.com/k2sbhai/status/2112481123343474731) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112481123343474731/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112481123343474731?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+built this with MiniMax M3.1 Flash 😳
+
+prompt: build a Flappy Bird clone
+
+- clouds hills and ground all moving
+- bird tilt up and down when it flap
+- screen shake and feathers fly when u crash
+- live score best score and play again
+
+used max reasoning with 1M context, one shot and it take 38 mins 👀
+```
+
+<a id="ui-demo"></a>
+
+## 产品界面
+
+### 具备光影交互效果的太空兔网页展示
+
+[@0x_fokki](https://x.com/0x_fokki/status/2112500742829277565) · 0:15 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112500742829277565/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112500742829277565?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+whoever handed out the beta of MiniMax M3.1 Flash for free as Space Bunny has zero survival instinct.
+
+MiniMax Code runs on the computer and M3.1 Flash writes the whole page. the prompt is the only brief it gets.
+
+[the page is in the 20 seconds below, here is how it got built]
+
+1. open an empty folder in MiniMax Code and drop in 2 pictures: the bunny dark and the bunny lit
+2. paste one prompt: the light that follows the cursor, the intro, the nav and the stats
+3. pick M3.1 Flash and let it run. it writes the files and starts the page on its own
+
+I left effort on max, which is the default anyway.
+
+the beta ran #1 on OpenCode for 12 days. the release ties Opus 5 on BankerToolBench and ranks #1 among Chinese models on computer use.
+
+unlimited in MiniMax Code until Oct 25.
 ```
 
 <a id="explainer"></a>
@@ -117,4 +177,57 @@ what do you think?
 A PS5 controller waddling down a beach, a pelican standing on it, and the Mona Lisa riding a bicycle on the pelican's back
 
 DeepSeek V4.1 Flash 1017 vs MiniMax M3.1 Flash vs GPT-6 Luna vs Claude Haiku 5.5, one shot each
+```
+
+### 对比两款模型生成的低轨航天飞机与地球3D场景
+
+[@sakatayasha](https://x.com/sakatayasha/status/2112484646663647344) · 0:34 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112484646663647344/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112484646663647344?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+MiniMax M3.1 Flash vs GLM 5.3 Flash 
+
+tested with the exact same prompt
+
+the task: a cinematic 3D scene of earth with a space shuttle in low orbit, with heat shield tiles, volumetric clouds, city lights on the dark side and sunlight flaring off the metal
+
+> M3.1 Flash finished everything in 48 mins, $0 (it's free on opencode for 72 hours)
+> meanwhile GLM 5.3 Flash took 1 hr 6 mins to finish everything for $3.20
+
+M3.1 Flash's build was more interactive, had a cleaner UI and finished 18 mins faster, free, and the better result
+
+which one do you think won?
+```
+
+### 复古电脑产品落地页对比
+
+[@de1lymoon](https://x.com/de1lymoon/status/2112524119862370755) · 0:12 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112524119862370755/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112524119862370755?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+this model is insane at design. and 96x cheaper than claude opus 5.5 on my test
+
+i gave minimax m3.1 flash (left) and opus 5.5 (right) the same prompt: build a landing page for a retro computer you can take apart
+
+minimax: $0.0056 / opus 5.5: $0.56 -> same prompt, 96x cheaper 
+
+prices per 1M tokens:
+m3.1 flash: $0.15 in / $0.60 out
+opus 5.5: $4 in / $20 out 
+
+judge the sites yourself
+```
+
+### 对比两款模型生成的Three.js日本浮岛3D场景
+
+[@0xMorlex](https://x.com/0xMorlex/status/2112538682955632663) · 0:24 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112538682955632663/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112538682955632663?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+this model is insane at design. and ~12x cheaper than claude opus 5.5 on my test
+
+i gave minimax m3.1 flash and opus 5.5 the same prompt: build a 3d floating island in japan in one html file. pagoda, torii, sakura, waterfall, all procedural three.js
+
+minimax: ~$0.012 / opus 5.5: ~$0.14 -> same prompt, ~12x cheaper
+
+(est. from output length, minimax wrote 3x more code)
+
+no edits on either. judge the islands yourself
 ```
