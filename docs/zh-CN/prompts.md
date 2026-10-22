@@ -2,15 +2,16 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 15 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
+共 19 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (2)
 - [游戏](#game) (3)
-- [产品界面](#ui-demo) (1)
+- [产品界面](#ui-demo) (2)
 - [讲解](#explainer) (1)
-- [测试对比](#comparison) (8)
+- [发布片](#launch-film) (1)
+- [测试对比](#comparison) (10)
 
 <a id="3d-scene"></a>
 
@@ -129,6 +130,25 @@ the beta ran #1 on OpenCode for 12 days. the release ties Opus 5 on BankerToolBe
 unlimited in MiniMax Code until Oct 25.
 ```
 
+### 单HTML文件完整操作系统演示
+
+[@Israfilv2](https://x.com/Israfilv2/status/2113182324628308476) · 0:58 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113182324628308476/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113182324628308476?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+i gave MiniMax M3.1 Flash one prompt and it built me a whole operating system in a single HTML file 😳
+
+here's what it pulled off:
+→ frontend: boot screen, lock screen, dock and spotlight search, all clean and smooth
+→ complex logic: a window manager where you can drag, resize, snap and minimize
+→ full apps: terminal, files, notes, paint, music and snake, all sharing one file system
+→ 3D: a galaxy app built in Three.js
+→ agentic tool use: an AI assistant inside the OS, running on M3.1 Flash itself, that opens apps and creates files for you
+
+took 20 minutes and cost me $0 extra (M3.1 Flash is unlimited for MiniMax Code subscribers till oct 25) 💀
+
+prompt in the replies
+```
+
 <a id="explainer"></a>
 
 ## 讲解
@@ -142,6 +162,31 @@ unlimited in MiniMax Code until Oct 25.
 
 提示词：
 尽你最大的能力，做一个介绍你自己（M3.1-Flash）和Minimax Code的视频。越酷炫、越惊艳越好
+```
+
+<a id="launch-film"></a>
+
+## 发布片
+
+### Pi Agent Desktop产品宣传片
+
+[@chasen_liao](https://x.com/chasen_liao/status/2113138389172224237) · 0:30 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113138389172224237/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113138389172224237?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+挖槽？！花叔这个 huashu-motion skills 是真的绝 🤯
+
+我之前也用过不少 motion skill，没一个能做到这个效果
+这次真的就一句话：“给我的项目做个产品宣传片
+它直接给 Pi Agent Desktop 出了一整支 30 秒的片子”
+
+最离谱的是模型用的是 MiniMax M3.1 Flash，现在在 OpenRouter 上免费爽用
+
+搭配 Claude Code 开 Ultra Code，模型这块一分钱没花
+
+花叔用的是 Opus 5.5，我用免费模型跑出来的片子也一点不虚 😭
+
+装上只要一行：
+npx skills add alchaincyf/huashu-motion
 ```
 
 <a id="comparison"></a>
@@ -288,4 +333,47 @@ So skip the leaderboard today. Take one project you care about, give the same br
 You’ll learn more in 10 minutes than from 10 comparison threads.
 
 Which two models should I put head-to-head next?
+```
+
+### 3D地球与航天飞机场景生成对比
+
+[@MAXdeg0](https://x.com/MAXdeg0/status/2113230869699637548) · 0:30 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113230869699637548/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113230869699637548?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+MINIMAX M3.1 FLASH vs ASTRA SOL 6.1 
+
+Tested with the exact same prompt.
+
+The task: build a cinematic 3D Earth scene with a space shuttle in low orbit, heat shield tiles, volumetric clouds, city lights on the dark side, and sunlight reflecting off the metal.
+
+- MiniMax M3.1 Flash: 15mins, $0
+
+- Astra Sol 6.1: 1 hr mins, $3.20
+
+M3.1 Flash finished 45minutes faster, delivered the better result, and had a more interactive experience with a cleaner UI.
+
+One was faster and free.
+
+Which model wins?
+```
+
+### MiniMax与Claude果冻俄罗斯方块对比
+
+[@0xRhinoX](https://x.com/0xRhinoX/status/2113336344587952230) · 0:31 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113336344587952230/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113336344587952230?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+No way MiniMax did this for $1.60
+
+Same prompt: Tetris, but every block is JELLY.
+
+MiniMax M3.1 Flash - $1.60, 12m
+Claude Opus 5.5 - $8.40, 43m
+
+5x cheaper. 3.5x faster. I had to look twice to tell them apart.
+
+Opus added combos and little sparks when a line pops. MiniMax made the prettier glass.
+
+So is the Space Bunny the new king, or is Opus still worth it?
+
+Play both below
 ```

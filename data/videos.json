@@ -104,7 +104,7 @@
   "durationMs": 0,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112134450926739599/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112134450926739599/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112134450926739599"
  },
@@ -630,7 +630,7 @@
   "durationMs": 103189,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112213565566587346/video.mp4",
   "promptShared": false,
-  "featured": 0,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112213565566587346/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112213565566587346"
  },
@@ -1069,6 +1069,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112423796527559136"
  },
  {
+  "id": "2112458848971952580",
+  "title": "Interactive 3D autumn valley scene",
+  "title_zh": "可交互的秋季山谷3D前端场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "AiHubMix",
+   "name": "AIHubmix"
+  },
+  "postUrl": "https://x.com/AiHubMix/status/2112458848971952580",
+  "createdAt": "2026-10-20T08:20:11.000Z",
+  "durationMs": 30666,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112458848971952580/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112458848971952580/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112458848971952580"
+ },
+ {
   "id": "2112459195521896760",
   "title": "Lunar Lander game generated with code",
   "title_zh": "通过纯代码生成的登月着陆器游戏",
@@ -1212,7 +1230,7 @@
   "durationMs": 57840,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112500802275148073/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112500802275148073/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112500802275148073"
  },
@@ -1326,6 +1344,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112534811466223703"
  },
  {
+  "id": "2112535355564150887",
+  "title": "MiniMax M3.1 Flash vs Opus 5 comparison",
+  "title_zh": "MiniMax M3.1 Flash与Opus 5生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Haleeeemahh",
+   "name": "Haleemah"
+  },
+  "postUrl": "https://x.com/Haleeeemahh/status/2112535355564150887",
+  "createdAt": "2026-10-20T13:24:12.000Z",
+  "durationMs": 15405,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112535355564150887/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112535355564150887/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112535355564150887"
+ },
+ {
   "id": "2112538682955632663",
   "title": "Comparing procedural 3D Japanese floating islands in Three.js",
   "title_zh": "对比两款模型生成的Three.js日本浮岛3D场景",
@@ -1430,7 +1466,7 @@
   "durationMs": 30033,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112556765674082545/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112556765674082545/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112556765674082545"
  },
@@ -1543,6 +1579,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112574212783112245"
  },
  {
+  "id": "2112580693200912469",
+  "title": "A 3D game test in MiniMax",
+  "title_zh": "MiniMax生成的3D小游戏测试",
+  "category": "game",
+  "author": {
+   "handle": "zephyr_ov",
+   "name": "Zephyr ✪"
+  },
+  "postUrl": "https://x.com/zephyr_ov/status/2112580693200912469",
+  "createdAt": "2026-10-20T16:24:21.000Z",
+  "durationMs": 20010,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112580693200912469/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112580693200912469/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112580693200912469"
+ },
+ {
   "id": "2112598256731451713",
   "title": "Habit tracker app redesign with glowing UI",
   "title_zh": "发光卡片风格的习惯打卡应用UI重构",
@@ -1556,9 +1610,27 @@
   "durationMs": 26808,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112598256731451713/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112598256731451713/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112598256731451713"
+ },
+ {
+  "id": "2112599829390008392",
+  "title": "MiniMax M3.1 Flash vs Opus 5 comparison",
+  "title_zh": "MiniMax M3.1 Flash与Opus 5对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "Haleeeemahh",
+   "name": "Haleemah"
+  },
+  "postUrl": "https://x.com/Haleeeemahh/status/2112599829390008392",
+  "createdAt": "2026-10-20T17:40:24.000Z",
+  "durationMs": 15405,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112599829390008392/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112599829390008392/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112599829390008392"
  },
  {
   "id": "2112619863059714355",
@@ -1592,7 +1664,7 @@
   "durationMs": 30401,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112638170844082179/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112638170844082179/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112638170844082179"
  },
@@ -1651,6 +1723,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112650462369595427"
  },
  {
+  "id": "2112680245778338172",
+  "title": "Continuous 3D Halloween scene",
+  "title_zh": "万圣节连续三维场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "atomicagent_io",
+   "name": "Atomic Agent"
+  },
+  "postUrl": "https://x.com/atomicagent_io/status/2112680245778338172",
+  "createdAt": "2026-10-20T22:59:56.000Z",
+  "durationMs": 30716,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112680245778338172/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112680245778338172/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112680245778338172"
+ },
+ {
   "id": "2112791024112140782",
   "title": "Playable Minecraft style 3D voxel sandbox game",
   "title_zh": "可玩的类我的世界3D体素沙盒游戏",
@@ -1665,7 +1755,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112791024112140782/video.mp4",
   "promptShared": true,
   "promptText": "Built this Minecraft style voxel game with MiniMax M3.1 Flash\n\nPrompt: Build a playable 3D voxel sandbox\n\n-> Procedural terrain with hills and trees\n\n-> First person movement, jumping and sprinting\n\n-> Break and place blocks\n\n->Inventory and hotbar\n\n-> Day/night cycle\n\nWent from a prompt to a playable game running in the browser.\n\nlink below to try it out",
-  "featured": 4,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112791024112140782/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112791024112140782"
  },
@@ -1778,6 +1868,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112870729586741613"
  },
  {
+  "id": "2112874036619591968",
+  "title": "Interactive 3D island game",
+  "title_zh": "交互式三维海岛游戏",
+  "category": "game",
+  "author": {
+   "handle": "buildwithsid",
+   "name": "siddharth"
+  },
+  "postUrl": "https://x.com/buildwithsid/status/2112874036619591968",
+  "createdAt": "2026-10-21T11:50:00.000Z",
+  "durationMs": 46080,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112874036619591968/video.mp4",
+  "promptShared": false,
+  "featured": 4,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112874036619591968/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112874036619591968"
+ },
+ {
   "id": "2112885676068991489",
   "title": "Comparison of droid butler advertisements coded by models",
   "title_zh": "多模型代码生成机器人管家广告对比",
@@ -1845,7 +1953,7 @@
   "durationMs": 59000,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112921548910641329/video.mp4",
   "promptShared": false,
-  "featured": 3,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112921548910641329/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112921548910641329"
  },
@@ -2011,5 +2119,279 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112995029337936362/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112995029337936362"
+ },
+ {
+  "id": "2113115816237682966",
+  "title": "3D plush spider comparison",
+  "title_zh": "3D毛绒蜘蛛模型生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "MasculineM7",
+   "name": "Harsh Hada"
+  },
+  "postUrl": "https://x.com/MasculineM7/status/2113115816237682966",
+  "createdAt": "2026-10-22T03:50:45.000Z",
+  "durationMs": 18112,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113115816237682966/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113115816237682966/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113115816237682966"
+ },
+ {
+  "id": "2113138389172224237",
+  "title": "Product promo video for Pi Agent Desktop",
+  "title_zh": "Pi Agent Desktop产品宣传片",
+  "category": "launch-film",
+  "author": {
+   "handle": "chasen_liao",
+   "name": "Chasen"
+  },
+  "postUrl": "https://x.com/chasen_liao/status/2113138389172224237",
+  "createdAt": "2026-10-22T05:20:26.000Z",
+  "durationMs": 30000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113138389172224237/video.mp4",
+  "promptShared": true,
+  "promptText": "挖槽？！花叔这个 huashu-motion skills 是真的绝 🤯\n\n我之前也用过不少 motion skill，没一个能做到这个效果\n这次真的就一句话：“给我的项目做个产品宣传片\n它直接给 Pi Agent Desktop 出了一整支 30 秒的片子”\n\n最离谱的是模型用的是 MiniMax M3.1 Flash，现在在 OpenRouter 上免费爽用\n\n搭配 Claude Code 开 Ultra Code，模型这块一分钱没花\n\n花叔用的是 Opus 5.5，我用免费模型跑出来的片子也一点不虚 😭\n\n装上只要一行：\nnpx skills add alchaincyf/huashu-motion",
+  "featured": 5,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113138389172224237/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113138389172224237"
+ },
+ {
+  "id": "2113182324628308476",
+  "title": "Operating system in a single HTML file",
+  "title_zh": "单HTML文件完整操作系统演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "Israfilv2",
+   "name": "Israfil"
+  },
+  "postUrl": "https://x.com/Israfilv2/status/2113182324628308476",
+  "createdAt": "2026-10-22T08:15:01.000Z",
+  "durationMs": 57833,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113182324628308476/video.mp4",
+  "promptShared": true,
+  "promptText": "i gave MiniMax M3.1 Flash one prompt and it built me a whole operating system in a single HTML file 😳\n\nhere's what it pulled off:\n→ frontend: boot screen, lock screen, dock and spotlight search, all clean and smooth\n→ complex logic: a window manager where you can drag, resize, snap and minimize\n→ full apps: terminal, files, notes, paint, music and snake, all sharing one file system\n→ 3D: a galaxy app built in Three.js\n→ agentic tool use: an AI assistant inside the OS, running on M3.1 Flash itself, that opens apps and creates files for you\n\ntook 20 minutes and cost me $0 extra (M3.1 Flash is unlimited for MiniMax Code subscribers till oct 25) 💀\n\nprompt in the replies",
+  "featured": 1,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113182324628308476/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113182324628308476"
+ },
+ {
+  "id": "2113210116304765405",
+  "title": "AI agent debugging and web development workflow",
+  "title_zh": "AI智能体代码调试与网页开发工作流",
+  "category": "explainer",
+  "author": {
+   "handle": "Soranlan",
+   "name": "Soran"
+  },
+  "postUrl": "https://x.com/Soranlan/status/2113210116304765405",
+  "createdAt": "2026-10-22T10:05:27.000Z",
+  "durationMs": 28750,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113210116304765405/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113210116304765405/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113210116304765405"
+ },
+ {
+  "id": "2113217041985401339",
+  "title": "Comparing a tiny ice rink scene",
+  "title_zh": "迷你溜冰场场景效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "vib3coded",
+   "name": "Vib3Coded"
+  },
+  "postUrl": "https://x.com/vib3coded/status/2113217041985401339",
+  "createdAt": "2026-10-22T10:32:59.000Z",
+  "durationMs": 18000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113217041985401339/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113217041985401339/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113217041985401339"
+ },
+ {
+  "id": "2113225129862062523",
+  "title": "Code-generated 3D motion graphics promo video",
+  "title_zh": "纯代码生成的3D动效宣传片",
+  "category": "launch-film",
+  "author": {
+   "handle": "Saccc_c",
+   "name": "Sac"
+  },
+  "postUrl": "https://x.com/Saccc_c/status/2113225129862062523",
+  "createdAt": "2026-10-22T11:05:07.000Z",
+  "durationMs": 26048,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113225129862062523/video.mp4",
+  "promptShared": false,
+  "featured": 0,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113225129862062523/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113225129862062523"
+ },
+ {
+  "id": "2113226691543978078",
+  "title": "Interactive living koi pond in Three.js",
+  "title_zh": "Three.js 交互式锦鲤池塘",
+  "category": "3d-scene",
+  "author": {
+   "handle": "darshal_",
+   "name": "Darshal Jaitwar"
+  },
+  "postUrl": "https://x.com/darshal_/status/2113226691543978078",
+  "createdAt": "2026-10-22T11:11:19.000Z",
+  "durationMs": 31633,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113226691543978078/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113226691543978078/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113226691543978078"
+ },
+ {
+  "id": "2113230869699637548",
+  "title": "Earth and space shuttle 3D scene comparison",
+  "title_zh": "3D地球与航天飞机场景生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "MAXdeg0",
+   "name": "MAX"
+  },
+  "postUrl": "https://x.com/MAXdeg0/status/2113230869699637548",
+  "createdAt": "2026-10-22T11:27:55.000Z",
+  "durationMs": 30106,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113230869699637548/video.mp4",
+  "promptShared": true,
+  "promptText": "MINIMAX M3.1 FLASH vs ASTRA SOL 6.1 \n\nTested with the exact same prompt.\n\nThe task: build a cinematic 3D Earth scene with a space shuttle in low orbit, heat shield tiles, volumetric clouds, city lights on the dark side, and sunlight reflecting off the metal.\n\n- MiniMax M3.1 Flash: 15mins, $0\n\n- Astra Sol 6.1: 1 hr mins, $3.20\n\nM3.1 Flash finished 45minutes faster, delivered the better result, and had a more interactive experience with a cleaner UI.\n\nOne was faster and free.\n\nWhich model wins?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113230869699637548/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113230869699637548"
+ },
+ {
+  "id": "2113233139115909536",
+  "title": "Playable 3D garden exploration game",
+  "title_zh": "可游玩的3D花园探索游戏",
+  "category": "game",
+  "author": {
+   "handle": "itsjdraven",
+   "name": "𝙳𝚛𝚊𝚟𝚎𝚗"
+  },
+  "postUrl": "https://x.com/itsjdraven/status/2113233139115909536",
+  "createdAt": "2026-10-22T11:36:56.000Z",
+  "durationMs": 47600,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113233139115909536/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113233139115909536/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113233139115909536"
+ },
+ {
+  "id": "2113235956518010903",
+  "title": "Automated scraping and analysis of dentist websites",
+  "title_zh": "牙医网站自动抓取与分析演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "LeoCreaIA",
+   "name": "Leo"
+  },
+  "postUrl": "https://x.com/LeoCreaIA/status/2113235956518010903",
+  "createdAt": "2026-10-22T11:48:08.000Z",
+  "durationMs": 35300,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113235956518010903/video.mp4",
+  "promptShared": false,
+  "featured": 3,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113235956518010903/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113235956518010903"
+ },
+ {
+  "id": "2113250463621452194",
+  "title": "Pixel skate park generation comparison",
+  "title_zh": "像素滑板公园生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "semichenkko",
+   "name": "Semichenko"
+  },
+  "postUrl": "https://x.com/semichenkko/status/2113250463621452194",
+  "createdAt": "2026-10-22T12:45:47.000Z",
+  "durationMs": 17833,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113250463621452194/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113250463621452194/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113250463621452194"
+ },
+ {
+  "id": "2113275650920636666",
+  "title": "Interactive 3D city inside a whale skeleton",
+  "title_zh": "巨鲸骨骼内的交互式三维城市",
+  "category": "3d-scene",
+  "author": {
+   "handle": "HeyZoyaKhan",
+   "name": "ZOYA ✪"
+  },
+  "postUrl": "https://x.com/HeyZoyaKhan/status/2113275650920636666",
+  "createdAt": "2026-10-22T14:25:52.000Z",
+  "durationMs": 50033,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113275650920636666/video.mp4",
+  "promptShared": false,
+  "featured": 6,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113275650920636666/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113275650920636666"
+ },
+ {
+  "id": "2113280663214571605",
+  "title": "Browser-based GTA game built with MiniMax",
+  "title_zh": "使用MiniMax构建的网页版GTA游戏",
+  "category": "game",
+  "author": {
+   "handle": "kaif9998",
+   "name": "Kaif"
+  },
+  "postUrl": "https://x.com/kaif9998/status/2113280663214571605",
+  "createdAt": "2026-10-22T14:45:47.000Z",
+  "durationMs": 45000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113280663214571605/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113280663214571605/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113280663214571605"
+ },
+ {
+  "id": "2113297653106675739",
+  "title": "Japanese train station 3D spring diorama",
+  "title_zh": "日本火车站3D春季微缩模型场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "vikktorrrre",
+   "name": "Veee"
+  },
+  "postUrl": "https://x.com/vikktorrrre/status/2113297653106675739",
+  "createdAt": "2026-10-22T15:53:18.000Z",
+  "durationMs": 49966,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113297653106675739/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113297653106675739/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113297653106675739"
+ },
+ {
+  "id": "2113336344587952230",
+  "title": "Jelly Tetris game comparison between MiniMax and Claude",
+  "title_zh": "MiniMax与Claude果冻俄罗斯方块对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xRhinoX",
+   "name": "Rhino"
+  },
+  "postUrl": "https://x.com/0xRhinoX/status/2113336344587952230",
+  "createdAt": "2026-10-22T18:27:03.000Z",
+  "durationMs": 31233,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113336344587952230/video.mp4",
+  "promptShared": true,
+  "promptText": "No way MiniMax did this for $1.60\n\nSame prompt: Tetris, but every block is JELLY.\n\nMiniMax M3.1 Flash - $1.60, 12m\nClaude Opus 5.5 - $8.40, 43m\n\n5x cheaper. 3.5x faster. I had to look twice to tell them apart.\n\nOpus added combos and little sparks when a line pops. MiniMax made the prettier glass.\n\nSo is the Space Bunny the new king, or is Opus still worth it?\n\nPlay both below",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113336344587952230/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113336344587952230"
  }
 ]
