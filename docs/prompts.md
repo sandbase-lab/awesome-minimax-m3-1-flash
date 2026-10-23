@@ -2,16 +2,17 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-19 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
+24 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (2)
+- [Motion graphics](#motion-graphics) (1)
 - [Games](#game) (3)
-- [Product UI](#ui-demo) (2)
+- [Product UI](#ui-demo) (3)
 - [Explainers](#explainer) (1)
 - [Launch films](#launch-film) (1)
-- [Tests & comparisons](#comparison) (10)
+- [Tests & comparisons](#comparison) (13)
 
 <a id="3d-scene"></a>
 
@@ -46,6 +47,24 @@ I will now try the same with MiniMax Code to see if there are differences.
 Prompt: make the most realistic water scene it could, in WebGPU, with a floating camera.
 
 Average of ~100 t/s  prose slower, code faster.
+```
+
+<a id="motion-graphics"></a>
+
+## Motion graphics
+
+### Code-generated brand promo video for MiniMax
+
+[@xueyu1125](https://x.com/xueyu1125/status/2113569157400928345) · 0:54 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113569157400928345/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113569157400928345?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+MiniMax M3.1 Flash实测第二波，我直接在MiniMax M3.1 Flash一句话生成Minimax的宣传视频，效果非常惊艳
+
+Prompt： Motion design生成一个minimax品牌宣传视频
+
+完全是通过代码生成的转场特效，我感觉质感挺不错，能和Claude Opus 5.5碰一碰吗🤔
+
+最终生成效果如下👇
 ```
 
 <a id="game"></a>
@@ -147,6 +166,20 @@ here's what it pulled off:
 took 20 minutes and cost me $0 extra (M3.1 Flash is unlimited for MiniMax Code subscribers till oct 25) 💀
 
 prompt in the replies
+```
+
+### Interactive landing pages and 3D scenes
+
+[@MengTo](https://x.com/MengTo/status/2113553675482525940) · 0:51 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113553675482525940/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113553675482525940?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+I made these landing pages with MiniMax M3.1 Flash, at a fraction of the cost of frontier models.
+
+Three keyboard sites, a SaaS page, a rainy 3D Singapore at night and a little 3D lighthouse game.
+
+My favourite is the exploded keyboard one. I made one render of the keyboard in MiniMax first, and every painting, photo and film came from that render, so it's the same board in every room.
+
+$0.15 per 1M input tokens, $0.60 per 1M output. Here's the whole process, prompts included.
 ```
 
 <a id="explainer"></a>
@@ -357,6 +390,24 @@ One was faster and free.
 Which model wins?
 ```
 
+### Motion graphics showreel comparison across four models
+
+[@EvoLinkAi](https://x.com/EvoLinkAi/status/2113299349740364076) · 0:15 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113299349740364076/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113299349740364076?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+MiniMax M3.1 Flash 🆚 DeepSeek V4.1 Flash 🆚 GPT-6 Luna 🆚 Claude Haiku 5.5
+
+Task: a 15-second motion graphics showreel
+• MiniMax: $0.26
+• DeepSeek: $0.19
+• Luna: $0.06
+• Haiku: $0.13
+
+Minimax packed in detail, Luna gave it room to breathe
+
+What do you think? Prompt below👇
+```
+
 ### Jelly Tetris game comparison between MiniMax and Claude
 
 [@0xRhinoX](https://x.com/0xRhinoX/status/2113336344587952230) · 0:31 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113336344587952230/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113336344587952230?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
@@ -376,4 +427,38 @@ Opus added combos and little sparks when a line pops. MiniMax made the prettier 
 So is the Space Bunny the new king, or is Opus still worth it?
 
 Play both below
+```
+
+### Electric motor animation in Three.js
+
+[@EvoLinkAi](https://x.com/EvoLinkAi/status/2113605044289650733) · 0:40 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113605044289650733/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113605044289650733?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+Same prompt: 40s Three.js electric motor animation.
+
+DeepSeek V4.1 Flash 1017: 2h 14s | ~$0.83
+MiniMax M3.1 Flash: 2h 43m | ~$0.25
+
+Which one wins?
+
+Explore more MiniMax M3.1 Flash prompts 👇
+ https://t.co/FGAyNjaqyK
+```
+
+### Code-only 3D campfire benchmark comparison
+
+[@EvoLinkAi](https://x.com/EvoLinkAi/status/2113707025066492154) · 0:30 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113707025066492154/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113707025066492154?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+🔥DeepSeek V4.1 Flash 1017 beats MiniMax M3.1 Flash in this code-only 3D campfire test.
+
+DeepSeek V4.1 Flash 1017
+Est. cost: $0.33 | Time: 3h 12m 35s
+
+MiniMax M3.1 Flash
+Est. cost: $0.51 | Time: ~3h 52m
+
+Both via EvoLink.
+
+Prompt below👇
 ```
