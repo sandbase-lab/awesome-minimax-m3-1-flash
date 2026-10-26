@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-24 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
+25 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -12,7 +12,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Product UI](#ui-demo) (3)
 - [Explainers](#explainer) (1)
 - [Launch films](#launch-film) (1)
-- [Tests & comparisons](#comparison) (13)
+- [Tests & comparisons](#comparison) (14)
 
 <a id="3d-scene"></a>
 
@@ -461,4 +461,16 @@ Est. cost: $0.51 | Time: ~3h 52m
 Both via EvoLink.
 
 Prompt below👇
+```
+
+### Shark elevator birthday prompt comparison
+
+[@sunra_ai](https://x.com/sunra_ai/status/2114434062991659015) · 0:15 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114434062991659015/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114434062991659015?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+we gave two brains three words: shark. elevator. birthday.
+
+minimax m3.1 flash vs claude opus 5.5, same prompt in the sunra agent, same video model underneath (seedance 2.5)
+
+who did more with less?
 ```

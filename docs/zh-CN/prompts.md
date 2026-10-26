@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 24 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
+共 25 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -12,7 +12,7 @@
 - [产品界面](#ui-demo) (3)
 - [讲解](#explainer) (1)
 - [发布片](#launch-film) (1)
-- [测试对比](#comparison) (13)
+- [测试对比](#comparison) (14)
 
 <a id="3d-scene"></a>
 
@@ -461,4 +461,16 @@ Est. cost: $0.51 | Time: ~3h 52m
 Both via EvoLink.
 
 Prompt below👇
+```
+
+### 鲨鱼电梯生日提示词生成对比
+
+[@sunra_ai](https://x.com/sunra_ai/status/2114434062991659015) · 0:15 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114434062991659015/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114434062991659015?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+we gave two brains three words: shark. elevator. birthday.
+
+minimax m3.1 flash vs claude opus 5.5, same prompt in the sunra agent, same video model underneath (seedance 2.5)
+
+who did more with less?
 ```

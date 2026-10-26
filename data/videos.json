@@ -1664,7 +1664,7 @@
   "durationMs": 30401,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112638170844082179/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112638170844082179/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112638170844082179"
  },
@@ -1935,7 +1935,7 @@
   "durationMs": 46080,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112874036619591968/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112874036619591968/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112874036619591968"
  },
@@ -2193,6 +2193,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112995029337936362"
  },
  {
+  "id": "2113022535612924212",
+  "title": "A content planner app built from scratch",
+  "title_zh": "从零构建的内容策划应用",
+  "category": "ui-demo",
+  "author": {
+   "handle": "rewind02",
+   "name": "rewind"
+  },
+  "postUrl": "https://x.com/rewind02/status/2113022535612924212",
+  "createdAt": "2026-10-21T21:40:05.000Z",
+  "durationMs": 36000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113022535612924212/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113022535612924212/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113022535612924212"
+ },
+ {
   "id": "2113115816237682966",
   "title": "3D plush spider comparison",
   "title_zh": "3D毛绒蜘蛛模型生成对比",
@@ -2209,6 +2227,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113115816237682966/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113115816237682966"
+ },
+ {
+  "id": "2113134403291660488",
+  "title": "Tokyo Street Rush endless runner game",
+  "title_zh": "东京街头跑酷游戏",
+  "category": "game",
+  "author": {
+   "handle": "rakibalislamm",
+   "name": "Rakib"
+  },
+  "postUrl": "https://x.com/rakibalislamm/status/2113134403291660488",
+  "createdAt": "2026-10-22T05:04:36.000Z",
+  "durationMs": 41000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113134403291660488/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113134403291660488/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113134403291660488"
  },
  {
   "id": "2113138389172224237",
@@ -2244,7 +2280,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113182324628308476/video.mp4",
   "promptShared": true,
   "promptText": "i gave MiniMax M3.1 Flash one prompt and it built me a whole operating system in a single HTML file 😳\n\nhere's what it pulled off:\n→ frontend: boot screen, lock screen, dock and spotlight search, all clean and smooth\n→ complex logic: a window manager where you can drag, resize, snap and minimize\n→ full apps: terminal, files, notes, paint, music and snake, all sharing one file system\n→ 3D: a galaxy app built in Three.js\n→ agentic tool use: an AI assistant inside the OS, running on M3.1 Flash itself, that opens apps and creates files for you\n\ntook 20 minutes and cost me $0 extra (M3.1 Flash is unlimited for MiniMax Code subscribers till oct 25) 💀\n\nprompt in the replies",
-  "featured": 2,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113182324628308476/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113182324628308476"
  },
@@ -2376,6 +2412,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113235956518010903"
  },
  {
+  "id": "2113246843085959593",
+  "title": "A playable 3D browser game created with OpenCode",
+  "title_zh": "使用 OpenCode 制作的可玩 3D 网页游戏演示",
+  "category": "game",
+  "author": {
+   "handle": "vrc_diver",
+   "name": "モリィ@VRC"
+  },
+  "postUrl": "https://x.com/vrc_diver/status/2113246843085959593",
+  "createdAt": "2026-10-22T12:31:24.000Z",
+  "durationMs": 30058,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113246843085959593/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113246843085959593/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113246843085959593"
+ },
+ {
   "id": "2113250463621452194",
   "title": "Pixel skate park generation comparison",
   "title_zh": "像素滑板公园生成效果对比",
@@ -2407,7 +2461,7 @@
   "durationMs": 50033,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113275650920636666/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113275650920636666/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113275650920636666"
  },
@@ -2589,7 +2643,7 @@
   "durationMs": 59016,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113542688276693342/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 5,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113542688276693342/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113542688276693342"
  },
@@ -2680,7 +2734,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113553675482525940/video.mp4",
   "promptShared": true,
   "promptText": "I made these landing pages with MiniMax M3.1 Flash, at a fraction of the cost of frontier models.\n\nThree keyboard sites, a SaaS page, a rainy 3D Singapore at night and a little 3D lighthouse game.\n\nMy favourite is the exploded keyboard one. I made one render of the keyboard in MiniMax first, and every painting, photo and film came from that render, so it's the same board in every room.\n\n$0.15 per 1M input tokens, $0.60 per 1M output. Here's the whole process, prompts included.",
-  "featured": null,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113553675482525940/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113553675482525940"
  },
@@ -2831,6 +2885,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113613603676783051"
  },
  {
+  "id": "2113617558981279919",
+  "title": "A playable alpine lake game in Three.js",
+  "title_zh": "Three.js 实现的高山湖泊试玩游戏",
+  "category": "game",
+  "author": {
+   "handle": "1kartikkabadi1",
+   "name": "Kartik"
+  },
+  "postUrl": "https://x.com/1kartikkabadi1/status/2113617558981279919",
+  "createdAt": "2026-10-23T13:04:29.000Z",
+  "durationMs": 38766,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113617558981279919/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113617558981279919/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113617558981279919"
+ },
+ {
   "id": "2113652431544566235",
   "title": "Visualization of Xi'an urban transport history",
   "title_zh": "西安城市与交通历史演变可视化",
@@ -2865,6 +2937,60 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113654429362647515/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113654429362647515"
+ },
+ {
+  "id": "2113668078798266522",
+  "title": "Astronaut bunny collecting stars 3D game",
+  "title_zh": "宇航员小兔收集落星3D游戏",
+  "category": "game",
+  "author": {
+   "handle": "Im_IrushiK",
+   "name": "Irushi"
+  },
+  "postUrl": "https://x.com/Im_IrushiK/status/2113668078798266522",
+  "createdAt": "2026-10-23T16:25:14.000Z",
+  "durationMs": 24300,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113668078798266522/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113668078798266522/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113668078798266522"
+ },
+ {
+  "id": "2113675111056220364",
+  "title": "Wallet privacy workflow test in Ghast AI",
+  "title_zh": "Ghast AI钱包隐私工作流测试",
+  "category": "ui-demo",
+  "author": {
+   "handle": "tiny_hunter5",
+   "name": "Tiny Hunter 🐉"
+  },
+  "postUrl": "https://x.com/tiny_hunter5/status/2113675111056220364",
+  "createdAt": "2026-10-23T16:53:11.000Z",
+  "durationMs": 47252,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113675111056220364/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113675111056220364/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113675111056220364"
+ },
+ {
+  "id": "2113686088024031278",
+  "title": "Head-to-head AI model comparisons across five tests",
+  "title_zh": "五组主流模型同提示词横向对比",
+  "category": "comparison",
+  "author": {
+   "handle": "zyonbuilds",
+   "name": "Zyon ⚗️"
+  },
+  "postUrl": "https://x.com/zyonbuilds/status/2113686088024031278",
+  "createdAt": "2026-10-23T17:36:48.000Z",
+  "durationMs": 37504,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113686088024031278/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113686088024031278/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113686088024031278"
  },
  {
   "id": "2113697869312192587",
@@ -2902,5 +3028,150 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113707025066492154/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113707025066492154"
+ },
+ {
+  "id": "2113736043212239179",
+  "title": "Three vision models recognizing real-time doodles",
+  "title_zh": "三款视觉模型实时识别涂鸦对决",
+  "category": "game",
+  "author": {
+   "handle": "sujee_dev",
+   "name": "Sujee Maniyam"
+  },
+  "postUrl": "https://x.com/sujee_dev/status/2113736043212239179",
+  "createdAt": "2026-10-23T20:55:18.000Z",
+  "durationMs": 47300,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113736043212239179/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113736043212239179/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113736043212239179"
+ },
+ {
+  "id": "2113803861362102501",
+  "title": "Ant colony intelligence foraging benchmark comparison",
+  "title_zh": "蚁群智能自主觅食基准对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "AlicanKiraz0",
+   "name": "Alican Kiraz"
+  },
+  "postUrl": "https://x.com/AlicanKiraz0/status/2113803861362102501",
+  "createdAt": "2026-10-24T01:24:47.000Z",
+  "durationMs": 73749,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113803861362102501/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113803861362102501/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113803861362102501"
+ },
+ {
+  "id": "2114070923116491139",
+  "title": "A generated scene with birds and clouds",
+  "title_zh": "带有飞鸟和云朵的生成场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Chris_Wozniczek",
+   "name": "Chris W"
+  },
+  "postUrl": "https://x.com/Chris_Wozniczek/status/2114070923116491139",
+  "createdAt": "2026-10-24T19:06:00.000Z",
+  "durationMs": 106266,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114070923116491139/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114070923116491139/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114070923116491139"
+ },
+ {
+  "id": "2114092835729445213",
+  "title": "DeepSeek, MiniMax, and Kimi prompt comparison",
+  "title_zh": "DeepSeek、MiniMax 与 Kimi 提示词横评",
+  "category": "comparison",
+  "author": {
+   "handle": "rubenssoto_ai",
+   "name": "Rubens Soto | AI & SaaS"
+  },
+  "postUrl": "https://x.com/rubenssoto_ai/status/2114092835729445213",
+  "createdAt": "2026-10-24T20:33:04.000Z",
+  "durationMs": 30000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114092835729445213/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114092835729445213/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114092835729445213"
+ },
+ {
+  "id": "2114120889629311075",
+  "title": "Wild west saloon benchmark comparison",
+  "title_zh": "狂野西部酒馆场景生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "buzzhive_ai",
+   "name": "Buzz"
+  },
+  "postUrl": "https://x.com/buzzhive_ai/status/2114120889629311075",
+  "createdAt": "2026-10-24T22:24:33.000Z",
+  "durationMs": 15000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114120889629311075/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114120889629311075/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114120889629311075"
+ },
+ {
+  "id": "2114342352781557781",
+  "title": "Isometric miniature city block comparison",
+  "title_zh": "等距微缩城市街区对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "Rivonn",
+   "name": "Rivon"
+  },
+  "postUrl": "https://x.com/Rivonn/status/2114342352781557781",
+  "createdAt": "2026-10-25T13:04:34.000Z",
+  "durationMs": 16068,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114342352781557781/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114342352781557781/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114342352781557781"
+ },
+ {
+  "id": "2114376165930717366",
+  "title": "Bandung the square that stayed",
+  "title_zh": "万隆保留的广场动态视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "airplanestar_",
+   "name": "airplanestar 𓂀"
+  },
+  "postUrl": "https://x.com/airplanestar_/status/2114376165930717366",
+  "createdAt": "2026-10-25T15:18:55.000Z",
+  "durationMs": 150000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114376165930717366/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114376165930717366/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114376165930717366"
+ },
+ {
+  "id": "2114434062991659015",
+  "title": "Shark elevator birthday prompt comparison",
+  "title_zh": "鲨鱼电梯生日提示词生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "sunra_ai",
+   "name": "Sunra"
+  },
+  "postUrl": "https://x.com/sunra_ai/status/2114434062991659015",
+  "createdAt": "2026-10-25T19:08:59.000Z",
+  "durationMs": 15072,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114434062991659015/video.mp4",
+  "promptShared": true,
+  "promptText": "we gave two brains three words: shark. elevator. birthday.\n\nminimax m3.1 flash vs claude opus 5.5, same prompt in the sunra agent, same video model underneath (seedance 2.5)\n\nwho did more with less?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114434062991659015/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114434062991659015"
  }
 ]
