@@ -2,17 +2,17 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-25 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
+27 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (2)
+- [3D scenes](#3d-scene) (3)
 - [Motion graphics](#motion-graphics) (1)
 - [Games](#game) (3)
 - [Product UI](#ui-demo) (3)
 - [Explainers](#explainer) (1)
 - [Launch films](#launch-film) (1)
-- [Tests & comparisons](#comparison) (14)
+- [Tests & comparisons](#comparison) (15)
 
 <a id="3d-scene"></a>
 
@@ -47,6 +47,55 @@ I will now try the same with MiniMax Code to see if there are differences.
 Prompt: make the most realistic water scene it could, in WebGPU, with a floating camera.
 
 Average of ~100 t/s  prose slower, code faster.
+```
+
+### Interactive 3D interior design studio
+
+[@Kanojiyaaakash1](https://x.com/Kanojiyaaakash1/status/2114607746830262597) · 0:27 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114607746830262597/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114607746830262597?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+🚨 This is getting INSANE.
+
+I gave @MiniMax_AI M3.1 Flash ONE prompt:
+
+"Build a fully functional 3D Interior Design Studio from scratch."
+
+No starter code. No templates. No manual setup.
+
+Just a single prompt.
+
+And I wasn't asking for a basic website.
+
+I wanted a REAL interactive 3D application.
+
+Here's what the challenge included:
+
+→ Fully interactive 3D room with 360° camera controls
+→ Drag-and-drop furniture placement
+→ Real-time wall and floor customization
+→ Multiple furniture styles and materials
+→ Realistic lighting, shadows, and reflections
+→ Smooth animations and interactive controls
+→ Modern, responsive design
+
+Think about what this actually requires.
+
+3D rendering. State management. User interactions. Real-time updates. UI engineering.
+
+All working together in a browser.
+
+And MiniMax M3.1 Flash is built for demanding tasks like these.
+
+⚡ 200+ tokens/sec generation speed
+⚡ Advanced coding and software engineering
+⚡ Multi-step agentic workflows
+⚡ 70% lower agentic task costs than its predecessor
+
+We're moving from asking AI to write code to asking AI to build entire products.
+
+One prompt. One ambitious idea.
+
+MiniMax M3.1 Flash is now open-weight, so you can explore the weights and start building with it yourself!
 ```
 
 <a id="motion-graphics"></a>
@@ -473,4 +522,30 @@ we gave two brains three words: shark. elevator. birthday.
 minimax m3.1 flash vs claude opus 5.5, same prompt in the sunra agent, same video model underneath (seedance 2.5)
 
 who did more with less?
+```
+
+### Cinematic 3D Earth scene comparison
+
+[@BIGMayrr](https://x.com/BIGMayrr/status/2114581390477939191) · 0:15 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114581390477939191/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114581390477939191?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+MINIMAX M3.1 FLASH vs GPT-6.1 Sol. 
+
+SAME PROMPT, VERY DIFFERENT RESULTS.
+
+I tested both models on the exact same task:
+
+Build a cinematic 3D Earth scene with a space shuttle in low orbit, detailed heat shield tiles, volumetric clouds, city lights on the dark side, and sunlight reflecting off the metal.
+
+Here’s how they performed:
+
+→ MiniMax M3.1 Flash: 15 minutes, free during a limited-time 
+
+→ GPT-6.1 Sol: 1 hour, $3.20
+
+MiniMax M3.1 Flash finished 45 minutes faster, delivered a better-looking result, and offered a more interactive experience with a cleaner UI.
+
+MiniMax is offering free M3.1 Flash usage for a limited time, making it worth trying out.
+
+So, which model would you choose?
 ```
