@@ -630,7 +630,7 @@
   "durationMs": 103189,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112213565566587346/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112213565566587346/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112213565566587346"
  },
@@ -1736,7 +1736,7 @@
   "durationMs": 30716,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112680245778338172/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112680245778338172/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112680245778338172"
  },
@@ -1935,7 +1935,7 @@
   "durationMs": 46080,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112874036619591968/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2112874036619591968/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2112874036619591968"
  },
@@ -2261,7 +2261,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113138389172224237/video.mp4",
   "promptShared": true,
   "promptText": "挖槽？！花叔这个 huashu-motion skills 是真的绝 🤯\n\n我之前也用过不少 motion skill，没一个能做到这个效果\n这次真的就一句话：“给我的项目做个产品宣传片\n它直接给 Pi Agent Desktop 出了一整支 30 秒的片子”\n\n最离谱的是模型用的是 MiniMax M3.1 Flash，现在在 OpenRouter 上免费爽用\n\n搭配 Claude Code 开 Ultra Code，模型这块一分钱没花\n\n花叔用的是 Opus 5.5，我用免费模型跑出来的片子也一点不虚 😭\n\n装上只要一行：\nnpx skills add alchaincyf/huashu-motion",
-  "featured": 4,
+  "featured": 5,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113138389172224237/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113138389172224237"
  },
@@ -2643,7 +2643,7 @@
   "durationMs": 59016,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113542688276693342/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113542688276693342/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113542688276693342"
  },
@@ -3156,24 +3156,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114376165930717366"
  },
  {
-  "id": "2114402608739693040",
-  "title": "A story of Cairo told through the Nile",
-  "title_zh": "通过尼罗河展现的开罗故事",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "SandbaseAI",
-   "name": "SandBase"
-  },
-  "postUrl": "https://x.com/SandbaseAI/status/2114402608739693040",
-  "createdAt": "2026-10-25T17:04:00.000Z",
-  "durationMs": 150016,
-  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114402608739693040/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114402608739693040/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114402608739693040"
- },
- {
   "id": "2114434062991659015",
   "title": "Shark elevator birthday prompt comparison",
   "title_zh": "鲨鱼电梯生日提示词生成对比",
@@ -3337,5 +3319,260 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114718986097098758/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114718986097098758"
+ },
+ {
+  "id": "2114809290737274944",
+  "title": "Agentic oil painting simulation of The Starry Night",
+  "title_zh": "智能体油画模拟梵高星空",
+  "category": "particles",
+  "author": {
+   "handle": "FeatherlessAI",
+   "name": "Featherless AI"
+  },
+  "postUrl": "https://x.com/FeatherlessAI/status/2114809290737274944",
+  "createdAt": "2026-10-26T20:00:00.000Z",
+  "durationMs": 12000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114809290737274944/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114809290737274944/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114809290737274944"
+ },
+ {
+  "id": "2114831026883317972",
+  "title": "Highland express animation model comparison",
+  "title_zh": "高地特快动画模型生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Chris_Wozniczek",
+   "name": "Chris W"
+  },
+  "postUrl": "https://x.com/Chris_Wozniczek/status/2114831026883317972",
+  "createdAt": "2026-10-26T21:26:23.000Z",
+  "durationMs": 151061,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114831026883317972/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114831026883317972/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114831026883317972"
+ },
+ {
+  "id": "2114924763206598863",
+  "title": "FlashDesk customer support workflow demo",
+  "title_zh": "FlashDesk 客户支持工作流演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "Dipanshu_AI",
+   "name": "Dipanshu Kushwaha"
+  },
+  "postUrl": "https://x.com/Dipanshu_AI/status/2114924763206598863",
+  "createdAt": "2026-10-27T03:38:51.000Z",
+  "durationMs": 106005,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114924763206598863/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114924763206598863/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114924763206598863"
+ },
+ {
+  "id": "2114944252384055460",
+  "title": "Neon Velocity 3D cyberpunk racing game",
+  "title_zh": "Neon Velocity 3D赛博朋克赛车游戏",
+  "category": "game",
+  "author": {
+   "handle": "HeyZaraKhan",
+   "name": "ZARA"
+  },
+  "postUrl": "https://x.com/HeyZaraKhan/status/2114944252384055460",
+  "createdAt": "2026-10-27T04:56:18.000Z",
+  "durationMs": 38034,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114944252384055460/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114944252384055460/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114944252384055460"
+ },
+ {
+  "id": "2114985293141229688",
+  "title": "Fish Survival 3D browser game concept",
+  "title_zh": "Fish Survival 3D 网页游戏概念展示",
+  "category": "game",
+  "author": {
+   "handle": "hey_simanto",
+   "name": "𝐒𝐢𝐦𝐚𝐧𝐭𝐨 । 𝐀𝐈 𝐍𝐞𝐰𝐬 𝐇𝐮𝐛"
+  },
+  "postUrl": "https://x.com/hey_simanto/status/2114985293141229688",
+  "createdAt": "2026-10-27T07:39:23.000Z",
+  "durationMs": 20009,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114985293141229688/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2114985293141229688/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2114985293141229688"
+ },
+ {
+  "id": "2115041504284811540",
+  "title": "Open world FPS game generated entirely in code",
+  "title_zh": "完全由代码生成的开放世界FPS游戏",
+  "category": "game",
+  "author": {
+   "handle": "ItsmeAjayKV",
+   "name": "AJ"
+  },
+  "postUrl": "https://x.com/ItsmeAjayKV/status/2115041504284811540",
+  "createdAt": "2026-10-27T11:22:44.000Z",
+  "durationMs": 95104,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115041504284811540/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115041504284811540/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115041504284811540"
+ },
+ {
+  "id": "2115044003582460079",
+  "title": "Pixel-style adventure game built with MiniMax Code",
+  "title_zh": "使用 MiniMax Code 构建的像素风冒险游戏",
+  "category": "game",
+  "author": {
+   "handle": "JayBisen473370",
+   "name": "Jay Bisen"
+  },
+  "postUrl": "https://x.com/JayBisen473370/status/2115044003582460079",
+  "createdAt": "2026-10-27T11:32:40.000Z",
+  "durationMs": 29766,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115044003582460079/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115044003582460079/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115044003582460079"
+ },
+ {
+  "id": "2115074454007304216",
+  "title": "A 3D candy factory simulation game",
+  "title_zh": "3D糖果工厂模拟游戏",
+  "category": "game",
+  "author": {
+   "handle": "iam_elias1",
+   "name": "Elias"
+  },
+  "postUrl": "https://x.com/iam_elias1/status/2115074454007304216",
+  "createdAt": "2026-10-27T13:33:40.000Z",
+  "durationMs": 40533,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115074454007304216/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115074454007304216/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115074454007304216"
+ },
+ {
+  "id": "2115102820668219428",
+  "title": "3D neon rooftop runner in one HTML file",
+  "title_zh": "单HTML文件构建的3D霓虹屋顶跑酷游戏",
+  "category": "game",
+  "author": {
+   "handle": "ethancoder0",
+   "name": "Ethan Walker"
+  },
+  "postUrl": "https://x.com/ethancoder0/status/2115102820668219428",
+  "createdAt": "2026-10-27T15:26:23.000Z",
+  "durationMs": 61695,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115102820668219428/video.mp4",
+  "promptShared": true,
+  "promptText": "I gave MiniMax Code one prompt: build a 3D neon rooftop runner. And chose M3.1 Flash model, Then I left it alone.\n46 min later: a playable rain-soaked city. One HTML file, no build step.\n\nThen I said “make it more cinematic.” It reworked the lighting and the controls still worked.sunset that fades to night as you speed up, flickering neon signs, shield power-ups, slide barriers, combos, touch controls. Controls unchanged.\n\nThen I told it to playtest its own game.\nIt found a bug I’d never have caught by playing for a minute. After a few hundred meters, rooftops stacked on each other and the runner fell through the floor with no gap. Its first tests missed it too, because they only ran short sessions.\n\nMiniMax Code with M3.1 Flash fixed the track logic and added a check across 30,000 steps. Final: 96/96 checks, zero console errors.\n\nIt also told me what it couldn’t verify: real GPU frame rate, since its sandbox had no GPU.\nMiniMax Code’s daily check-in: 400 points/day, 1,000 on day 4 and 7, 4,000 for the full week.\nWhat would you build with an AI agent?\n\nTry MiniMax Code:",
+  "featured": 4,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115102820668219428/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115102820668219428"
+ },
+ {
+  "id": "2115207393646711195",
+  "title": "Hypersonic shock CFD simulation benchmark comparison",
+  "title_zh": "高超声速激波 CFD 仿真基准横向对比",
+  "category": "comparison",
+  "author": {
+   "handle": "AlicanKiraz0",
+   "name": "Alican Kiraz"
+  },
+  "postUrl": "https://x.com/AlicanKiraz0/status/2115207393646711195",
+  "createdAt": "2026-10-27T22:21:55.000Z",
+  "durationMs": 62760,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115207393646711195/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115207393646711195/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115207393646711195"
+ },
+ {
+  "id": "2115362466284569024",
+  "title": "Music player comparison between MiniMax and MiMo",
+  "title_zh": "MiniMax 与小米 MiMo 音乐播放器代码对比",
+  "category": "comparison",
+  "author": {
+   "handle": "ErickSky",
+   "name": "Erick"
+  },
+  "postUrl": "https://x.com/ErickSky/status/2115362466284569024",
+  "createdAt": "2026-10-28T08:38:08.000Z",
+  "durationMs": 29952,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115362466284569024/video.mp4",
+  "promptShared": true,
+  "promptText": "Puse a competir a MiniMax M3.1 Flash contra Xiaomi MiMo 2.6 Flash con el mismo prompt:\n\n“Build a modern music player with album artwork, playback controls, a seek bar, volume control, and an interactive track queue.”\n\nSpace Bunny Alpha fue una versión temprana de M3.1 Flash. El modelo actual está BASTANTE más optimizado (más rápido y con mejor rendimiento en tareas de agente).\n\nMiniMax me dejó enamorado del diseño y de la música que generó, fue de muy alta calidad!\n\nXiaomi no estuvo mal al principio, pero entró en un bucle de bugs. Me aburrí porque demoró demasiado y lo cerré, pero les muestro en qué parte quedó.\n\nEn el video de la izquierda es Xiaomi y de la derecha MiniMax. No le puse audio para que entren y lo disfruten ustedes mismos jajaja.\n\nEl de MiniMax lo pueden revisar y probar aquí:\n\nhttps://t.co/rahu9GSFOw\n\nPor ejemplo, este reproductor con su música procedural incluida me costó solo un 2% de la cuota de 5 horas y 1% de la cuota semanal. Es una locura de rendidor!!\n\nComo referencia, recordemos el precio de API de MiniMax M3.1 flash, que es: $0.15 por millón de tokens de entrada y $0.60 de salida.\n\nAhhh, y ahora mismo hay 50% de descuento en el primer mes del M Plan hasta el 31 de octubre.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115362466284569024/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115362466284569024"
+ },
+ {
+  "id": "2115444454727524614",
+  "title": "3D floor plan tour and motion graphics demo",
+  "title_zh": "3D 看房与动效设计自动化渲染演示",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "GeekCatX",
+   "name": "知识猫AI实验室"
+  },
+  "postUrl": "https://x.com/GeekCatX/status/2115444454727524614",
+  "createdAt": "2026-10-28T14:03:55.000Z",
+  "durationMs": 137666,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115444454727524614/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115444454727524614/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115444454727524614"
+ },
+ {
+  "id": "2115460580144271462",
+  "title": "Historical growth of Venice in 3D",
+  "title_zh": "威尼斯历史演进3D场景重塑",
+  "category": "3d-scene",
+  "author": {
+   "handle": "SandbaseAI",
+   "name": "SandBase"
+  },
+  "postUrl": "https://x.com/SandbaseAI/status/2115460580144271462",
+  "createdAt": "2026-10-28T15:08:00.000Z",
+  "durationMs": 180100,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115460580144271462/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115460580144271462/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115460580144271462"
+ },
+ {
+  "id": "2115490348491591891",
+  "title": "Explorable 3D Titanic shipwreck scene in HTML",
+  "title_zh": "单HTML文件可探索泰坦尼克号残骸3D场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "chetaslua",
+   "name": "Chetaslua"
+  },
+  "postUrl": "https://x.com/chetaslua/status/2115490348491591891",
+  "createdAt": "2026-10-28T17:06:17.000Z",
+  "durationMs": 35805,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115490348491591891/video.mp4",
+  "promptShared": true,
+  "promptText": "gave M3.1 Flash one prompt\n\nbuild the Titanic wreck as an explorable 3D scene in one html file\n\nthought it would just make a basic ship scene but somehow it added a pilotable sub , sonar , marine snow , silt clouds , fish and the wreck split into bow and stern\neven added a ghost mode where you can see the original ship over the wreck\n\nbest part is flying around with the spotlight and kicking up silt near the seabed\n\nthis is also where M3.1 Flash makes sense\n\nit’s fast , handles pretty complex coding + interaction logic well , and the cost is low enough that i can keep changing things and rerunning it without thinking too much about every iteration\n\nthe model is also open-weight now\n\npretty fun test",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115490348491591891/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115490348491591891"
  }
 ]

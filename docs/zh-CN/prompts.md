@@ -2,17 +2,17 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 27 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
+共 30 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
-- [3D 场景](#3d-scene) (3)
+- [3D 场景](#3d-scene) (4)
 - [动效](#motion-graphics) (1)
-- [游戏](#game) (3)
+- [游戏](#game) (4)
 - [产品界面](#ui-demo) (3)
 - [讲解](#explainer) (1)
 - [发布片](#launch-film) (1)
-- [测试对比](#comparison) (15)
+- [测试对比](#comparison) (16)
 
 <a id="3d-scene"></a>
 
@@ -98,6 +98,29 @@ One prompt. One ambitious idea.
 MiniMax M3.1 Flash is now open-weight, so you can explore the weights and start building with it yourself!
 ```
 
+### 单HTML文件可探索泰坦尼克号残骸3D场景
+
+[@chetaslua](https://x.com/chetaslua/status/2115490348491591891) · 0:36 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115490348491591891/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115490348491591891?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+gave M3.1 Flash one prompt
+
+build the Titanic wreck as an explorable 3D scene in one html file
+
+thought it would just make a basic ship scene but somehow it added a pilotable sub , sonar , marine snow , silt clouds , fish and the wreck split into bow and stern
+even added a ghost mode where you can see the original ship over the wreck
+
+best part is flying around with the spotlight and kicking up silt near the seabed
+
+this is also where M3.1 Flash makes sense
+
+it’s fast , handles pretty complex coding + interaction logic well , and the cost is low enough that i can keep changing things and rerunning it without thinking too much about every iteration
+
+the model is also open-weight now
+
+pretty fun test
+```
+
 <a id="motion-graphics"></a>
 
 ## 动效
@@ -170,6 +193,28 @@ Prompt: Build a playable 3D voxel sandbox
 Went from a prompt to a playable game running in the browser.
 
 link below to try it out
+```
+
+### 单HTML文件构建的3D霓虹屋顶跑酷游戏
+
+[@ethancoder0](https://x.com/ethancoder0/status/2115102820668219428) · 1:02 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115102820668219428/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115102820668219428?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+I gave MiniMax Code one prompt: build a 3D neon rooftop runner. And chose M3.1 Flash model, Then I left it alone.
+46 min later: a playable rain-soaked city. One HTML file, no build step.
+
+Then I said “make it more cinematic.” It reworked the lighting and the controls still worked.sunset that fades to night as you speed up, flickering neon signs, shield power-ups, slide barriers, combos, touch controls. Controls unchanged.
+
+Then I told it to playtest its own game.
+It found a bug I’d never have caught by playing for a minute. After a few hundred meters, rooftops stacked on each other and the runner fell through the floor with no gap. Its first tests missed it too, because they only ran short sessions.
+
+MiniMax Code with M3.1 Flash fixed the track logic and added a check across 30,000 steps. Final: 96/96 checks, zero console errors.
+
+It also told me what it couldn’t verify: real GPU frame rate, since its sandbox had no GPU.
+MiniMax Code’s daily check-in: 400 points/day, 1,000 on day 4 and 7, 4,000 for the full week.
+What would you build with an AI agent?
+
+Try MiniMax Code:
 ```
 
 <a id="ui-demo"></a>
@@ -548,4 +593,32 @@ MiniMax M3.1 Flash finished 45 minutes faster, delivered a better-looking result
 MiniMax is offering free M3.1 Flash usage for a limited time, making it worth trying out.
 
 So, which model would you choose?
+```
+
+### MiniMax 与小米 MiMo 音乐播放器代码对比
+
+[@ErickSky](https://x.com/ErickSky/status/2115362466284569024) · 0:30 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115362466284569024/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115362466284569024?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+Puse a competir a MiniMax M3.1 Flash contra Xiaomi MiMo 2.6 Flash con el mismo prompt:
+
+“Build a modern music player with album artwork, playback controls, a seek bar, volume control, and an interactive track queue.”
+
+Space Bunny Alpha fue una versión temprana de M3.1 Flash. El modelo actual está BASTANTE más optimizado (más rápido y con mejor rendimiento en tareas de agente).
+
+MiniMax me dejó enamorado del diseño y de la música que generó, fue de muy alta calidad!
+
+Xiaomi no estuvo mal al principio, pero entró en un bucle de bugs. Me aburrí porque demoró demasiado y lo cerré, pero les muestro en qué parte quedó.
+
+En el video de la izquierda es Xiaomi y de la derecha MiniMax. No le puse audio para que entren y lo disfruten ustedes mismos jajaja.
+
+El de MiniMax lo pueden revisar y probar aquí:
+
+https://t.co/rahu9GSFOw
+
+Por ejemplo, este reproductor con su música procedural incluida me costó solo un 2% de la cuota de 5 horas y 1% de la cuota semanal. Es una locura de rendidor!!
+
+Como referencia, recordemos el precio de API de MiniMax M3.1 flash, que es: $0.15 por millón de tokens de entrada y $0.60 de salida.
+
+Ahhh, y ahora mismo hay 50% de descuento en el primer mes del M Plan hasta el 31 de octubre.
 ```

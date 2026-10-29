@@ -2,17 +2,17 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-27 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
+30 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (3)
+- [3D scenes](#3d-scene) (4)
 - [Motion graphics](#motion-graphics) (1)
-- [Games](#game) (3)
+- [Games](#game) (4)
 - [Product UI](#ui-demo) (3)
 - [Explainers](#explainer) (1)
 - [Launch films](#launch-film) (1)
-- [Tests & comparisons](#comparison) (15)
+- [Tests & comparisons](#comparison) (16)
 
 <a id="3d-scene"></a>
 
@@ -98,6 +98,29 @@ One prompt. One ambitious idea.
 MiniMax M3.1 Flash is now open-weight, so you can explore the weights and start building with it yourself!
 ```
 
+### Explorable 3D Titanic shipwreck scene in HTML
+
+[@chetaslua](https://x.com/chetaslua/status/2115490348491591891) · 0:36 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115490348491591891/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115490348491591891?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+gave M3.1 Flash one prompt
+
+build the Titanic wreck as an explorable 3D scene in one html file
+
+thought it would just make a basic ship scene but somehow it added a pilotable sub , sonar , marine snow , silt clouds , fish and the wreck split into bow and stern
+even added a ghost mode where you can see the original ship over the wreck
+
+best part is flying around with the spotlight and kicking up silt near the seabed
+
+this is also where M3.1 Flash makes sense
+
+it’s fast , handles pretty complex coding + interaction logic well , and the cost is low enough that i can keep changing things and rerunning it without thinking too much about every iteration
+
+the model is also open-weight now
+
+pretty fun test
+```
+
 <a id="motion-graphics"></a>
 
 ## Motion graphics
@@ -170,6 +193,28 @@ Prompt: Build a playable 3D voxel sandbox
 Went from a prompt to a playable game running in the browser.
 
 link below to try it out
+```
+
+### 3D neon rooftop runner in one HTML file
+
+[@ethancoder0](https://x.com/ethancoder0/status/2115102820668219428) · 1:02 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115102820668219428/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115102820668219428?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+I gave MiniMax Code one prompt: build a 3D neon rooftop runner. And chose M3.1 Flash model, Then I left it alone.
+46 min later: a playable rain-soaked city. One HTML file, no build step.
+
+Then I said “make it more cinematic.” It reworked the lighting and the controls still worked.sunset that fades to night as you speed up, flickering neon signs, shield power-ups, slide barriers, combos, touch controls. Controls unchanged.
+
+Then I told it to playtest its own game.
+It found a bug I’d never have caught by playing for a minute. After a few hundred meters, rooftops stacked on each other and the runner fell through the floor with no gap. Its first tests missed it too, because they only ran short sessions.
+
+MiniMax Code with M3.1 Flash fixed the track logic and added a check across 30,000 steps. Final: 96/96 checks, zero console errors.
+
+It also told me what it couldn’t verify: real GPU frame rate, since its sandbox had no GPU.
+MiniMax Code’s daily check-in: 400 points/day, 1,000 on day 4 and 7, 4,000 for the full week.
+What would you build with an AI agent?
+
+Try MiniMax Code:
 ```
 
 <a id="ui-demo"></a>
@@ -548,4 +593,32 @@ MiniMax M3.1 Flash finished 45 minutes faster, delivered a better-looking result
 MiniMax is offering free M3.1 Flash usage for a limited time, making it worth trying out.
 
 So, which model would you choose?
+```
+
+### Music player comparison between MiniMax and MiMo
+
+[@ErickSky](https://x.com/ErickSky/status/2115362466284569024) · 0:30 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115362466284569024/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115362466284569024?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+Puse a competir a MiniMax M3.1 Flash contra Xiaomi MiMo 2.6 Flash con el mismo prompt:
+
+“Build a modern music player with album artwork, playback controls, a seek bar, volume control, and an interactive track queue.”
+
+Space Bunny Alpha fue una versión temprana de M3.1 Flash. El modelo actual está BASTANTE más optimizado (más rápido y con mejor rendimiento en tareas de agente).
+
+MiniMax me dejó enamorado del diseño y de la música que generó, fue de muy alta calidad!
+
+Xiaomi no estuvo mal al principio, pero entró en un bucle de bugs. Me aburrí porque demoró demasiado y lo cerré, pero les muestro en qué parte quedó.
+
+En el video de la izquierda es Xiaomi y de la derecha MiniMax. No le puse audio para que entren y lo disfruten ustedes mismos jajaja.
+
+El de MiniMax lo pueden revisar y probar aquí:
+
+https://t.co/rahu9GSFOw
+
+Por ejemplo, este reproductor con su música procedural incluida me costó solo un 2% de la cuota de 5 horas y 1% de la cuota semanal. Es una locura de rendidor!!
+
+Como referencia, recordemos el precio de API de MiniMax M3.1 flash, que es: $0.15 por millón de tokens de entrada y $0.60 de salida.
+
+Ahhh, y ahora mismo hay 50% de descuento en el primer mes del M Plan hasta el 31 de octubre.
 ```
