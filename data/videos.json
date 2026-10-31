@@ -3791,5 +3791,96 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116313123183554958/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2116313123183554958"
+ },
+ {
+  "id": "2116313449596957104",
+  "title": "Comparison of interactive 3D world wonder tours",
+  "title_zh": "两款模型生成交互式3D世界奇迹导览对比",
+  "category": "comparison",
+  "author": {
+   "handle": "superalesha",
+   "name": "Alexey Fateev"
+  },
+  "postUrl": "https://x.com/superalesha/status/2116313449596957104",
+  "createdAt": "2026-10-30T23:37:00.000Z",
+  "durationMs": 40843,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116313449596957104/video.mp4",
+  "promptShared": true,
+  "promptText": "Gave MiniMax M3.1 Flash and DeepSeek V4.1 Flash 1017 the same prompt:\n\nbuild an interactive 3D tour of the 7 New Wonders in one HTML file.\n\nMiniMax built the more complete tour. The locations are easier to recognize, and the weather and lighting controls work in the demo.\nDeepSeek has much rougher models, and its Chichén Itzá scene goes blank.\n\nInput: $0.15 per million tokens.\nOutput: $0.60 per million tokens.\n\nNot a benchmark, just one test, but a useful one.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116313449596957104/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2116313449596957104"
+ },
+ {
+  "id": "2116390761075736849",
+  "title": "Explorable 3D miniature city of Kolkata",
+  "title_zh": "可探索的加尔各答微缩3D城市",
+  "category": "3d-scene",
+  "author": {
+   "handle": "adityawaslost",
+   "name": "Aditya"
+  },
+  "postUrl": "https://x.com/adityawaslost/status/2116390761075736849",
+  "createdAt": "2026-10-31T04:44:12.000Z",
+  "durationMs": 135000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116390761075736849/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116390761075736849/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2116390761075736849"
+ },
+ {
+  "id": "2116414322557817175",
+  "title": "3D BMW engine bearing and gear test",
+  "title_zh": "3D宝马发动机轴承与齿轮系统测试",
+  "category": "comparison",
+  "author": {
+   "handle": "bebuu_ai",
+   "name": "bebu"
+  },
+  "postUrl": "https://x.com/bebuu_ai/status/2116414322557817175",
+  "createdAt": "2026-10-31T06:17:50.000Z",
+  "durationMs": 13000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116414322557817175/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116414322557817175/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2116414322557817175"
+ },
+ {
+  "id": "2116532690434265368",
+  "title": "Dinosaur animation model comparison test",
+  "title_zh": "恐龙动画多模型横向对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "noclipepe",
+   "name": "noclipepe"
+  },
+  "postUrl": "https://x.com/noclipepe/status/2116532690434265368",
+  "createdAt": "2026-10-31T14:08:11.000Z",
+  "durationMs": 21266,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116532690434265368/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116532690434265368/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2116532690434265368"
+ },
+ {
+  "id": "2116538699240591368",
+  "title": "3D mech launch sequence model comparison",
+  "title_zh": "3D机甲发射序列的模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "alohaproxy",
+   "name": "aloha"
+  },
+  "postUrl": "https://x.com/alohaproxy/status/2116538699240591368",
+  "createdAt": "2026-10-31T14:32:03.000Z",
+  "durationMs": 34300,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116538699240591368/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116538699240591368/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2116538699240591368"
  }
 ]

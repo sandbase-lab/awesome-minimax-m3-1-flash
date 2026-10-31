@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-31 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
+32 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -12,7 +12,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Product UI](#ui-demo) (3)
 - [Explainers](#explainer) (1)
 - [Launch films](#launch-film) (1)
-- [Tests & comparisons](#comparison) (16)
+- [Tests & comparisons](#comparison) (17)
 
 <a id="3d-scene"></a>
 
@@ -647,4 +647,22 @@ Por ejemplo, este reproductor con su música procedural incluida me costó solo 
 Como referencia, recordemos el precio de API de MiniMax M3.1 flash, que es: $0.15 por millón de tokens de entrada y $0.60 de salida.
 
 Ahhh, y ahora mismo hay 50% de descuento en el primer mes del M Plan hasta el 31 de octubre.
+```
+
+### Comparison of interactive 3D world wonder tours
+
+[@superalesha](https://x.com/superalesha/status/2116313449596957104) · 0:41 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116313449596957104/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2116313449596957104?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+Gave MiniMax M3.1 Flash and DeepSeek V4.1 Flash 1017 the same prompt:
+
+build an interactive 3D tour of the 7 New Wonders in one HTML file.
+
+MiniMax built the more complete tour. The locations are easier to recognize, and the weather and lighting controls work in the demo.
+DeepSeek has much rougher models, and its Chichén Itzá scene goes blank.
+
+Input: $0.15 per million tokens.
+Output: $0.60 per million tokens.
+
+Not a benchmark, just one test, but a useful one.
 ```

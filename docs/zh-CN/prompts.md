@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 31 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
+共 32 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -12,7 +12,7 @@
 - [产品界面](#ui-demo) (3)
 - [讲解](#explainer) (1)
 - [发布片](#launch-film) (1)
-- [测试对比](#comparison) (16)
+- [测试对比](#comparison) (17)
 
 <a id="3d-scene"></a>
 
@@ -647,4 +647,22 @@ Por ejemplo, este reproductor con su música procedural incluida me costó solo 
 Como referencia, recordemos el precio de API de MiniMax M3.1 flash, que es: $0.15 por millón de tokens de entrada y $0.60 de salida.
 
 Ahhh, y ahora mismo hay 50% de descuento en el primer mes del M Plan hasta el 31 de octubre.
+```
+
+### 两款模型生成交互式3D世界奇迹导览对比
+
+[@superalesha](https://x.com/superalesha/status/2116313449596957104) · 0:41 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116313449596957104/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2116313449596957104?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+Gave MiniMax M3.1 Flash and DeepSeek V4.1 Flash 1017 the same prompt:
+
+build an interactive 3D tour of the 7 New Wonders in one HTML file.
+
+MiniMax built the more complete tour. The locations are easier to recognize, and the weather and lighting controls work in the demo.
+DeepSeek has much rougher models, and its Chichén Itzá scene goes blank.
+
+Input: $0.15 per million tokens.
+Output: $0.60 per million tokens.
+
+Not a benchmark, just one test, but a useful one.
 ```
