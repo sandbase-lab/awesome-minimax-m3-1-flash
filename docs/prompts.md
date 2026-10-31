@@ -2,11 +2,11 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-30 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
+31 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (4)
+- [3D scenes](#3d-scene) (5)
 - [Motion graphics](#motion-graphics) (1)
 - [Games](#game) (4)
 - [Product UI](#ui-demo) (3)
@@ -119,6 +119,32 @@ it’s fast , handles pretty complex coding + interaction logic well , and the c
 the model is also open-weight now
 
 pretty fun test
+```
+
+### A voxel witch cauldron on a floating island
+
+[@semichenkko](https://x.com/semichenkko/status/2115813563461726567) · 0:13 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115813563461726567/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115813563461726567?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+minimax m3.1 flash built this voxel witch's cauldron. it did not start like this
+
+the base prompt:
+"a voxel halloween scene on a floating island - a witch's cauldron with ghosts"
+
+that gets you a flat green plate, a black box and some white cubes
+
+the 4 follow-ups that made the difference:
+
+1. "match this reference: dense leafy plants, dirt clumps hanging under the island, pixel-art render with outlines"
+2. "action has to start on the first frame, not after 2 seconds"
+3. "it's too sharp, it hurts to watch - render softer, weaker outlines, slow camera"
+4. "the slime drips are floating next to the cauldron - wrap them around the actual curve of the pot"
+
+80,000 voxels, 13 seconds
+
+the follow-ups weren't "make it better". each one named one specific thing that was wrong
+
+the first prompt picks the subject. the follow-ups pick the quality
 ```
 
 <a id="motion-graphics"></a>

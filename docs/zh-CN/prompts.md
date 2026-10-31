@@ -2,11 +2,11 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 30 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
+共 31 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
-- [3D 场景](#3d-scene) (4)
+- [3D 场景](#3d-scene) (5)
 - [动效](#motion-graphics) (1)
 - [游戏](#game) (4)
 - [产品界面](#ui-demo) (3)
@@ -119,6 +119,32 @@ it’s fast , handles pretty complex coding + interaction logic well , and the c
 the model is also open-weight now
 
 pretty fun test
+```
+
+### 浮空岛上的体素女巫大釜场景
+
+[@semichenkko](https://x.com/semichenkko/status/2115813563461726567) · 0:13 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2115813563461726567/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2115813563461726567?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+minimax m3.1 flash built this voxel witch's cauldron. it did not start like this
+
+the base prompt:
+"a voxel halloween scene on a floating island - a witch's cauldron with ghosts"
+
+that gets you a flat green plate, a black box and some white cubes
+
+the 4 follow-ups that made the difference:
+
+1. "match this reference: dense leafy plants, dirt clumps hanging under the island, pixel-art render with outlines"
+2. "action has to start on the first frame, not after 2 seconds"
+3. "it's too sharp, it hurts to watch - render softer, weaker outlines, slow camera"
+4. "the slime drips are floating next to the cauldron - wrap them around the actual curve of the pot"
+
+80,000 voxels, 13 seconds
+
+the follow-ups weren't "make it better". each one named one specific thing that was wrong
+
+the first prompt picks the subject. the follow-ups pick the quality
 ```
 
 <a id="motion-graphics"></a>
