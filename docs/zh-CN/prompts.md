@@ -2,11 +2,11 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 32 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
+共 33 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
-- [3D 场景](#3d-scene) (5)
+- [3D 场景](#3d-scene) (6)
 - [动效](#motion-graphics) (1)
 - [游戏](#game) (4)
 - [产品界面](#ui-demo) (3)
@@ -145,6 +145,32 @@ the 4 follow-ups that made the difference:
 the follow-ups weren't "make it better". each one named one specific thing that was wrong
 
 the first prompt picks the subject. the follow-ups pick the quality
+```
+
+### Three.js 生成带旋转雷达的空中交通管制塔3D场景
+
+[@Jomolos](https://x.com/Jomolos/status/2116874305220886583) · 0:41 · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116874305220886583/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2116874305220886583?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+“Bana hareketli radarı olan bir hava trafik kontrol kulesi yap.” Küçük bir yapay zekâ modeline bunu söylüyorsun, o da tarayıcıda açabileceğin 3D sahnenin kodunu yazıyor. Tabi işler her zaman anlatıldığı kadar kolay olmuyor.
+
+Qwen3.5-4B-3D-Coder, CCORE adlı bağımsız bir geliştiricinin denemesi. Qwen3.5-4B temel alınarak özellikle Three.js ile interaktif 3D sahneler üretmesi için eğitilmiş. Resmî bir Qwen sürümü değil; geliştirilmesi devam eden erken bir önizleme.
+
+Modelin yaptığı şey doğrudan bir Blender dosyası üretmek değil. İsteğini HTML ve JavaScript koduna çeviriyor. Çıktıyı bir HTML dosyasına kaydedip açtığında, kodun oluşturduğu sahneyi tarayıcıda görebiliyorsun. Three.js örneklerde internet üzerinden yükleniyor; yani tek dosya olması her durumda çevrimdışı çalışacağı anlamına gelmiyor.
+
+Eğitim için hazırlanan veri setinde 4.146 sahne örneği bulunuyor. Bunlar MiniMax M3.1 Flash ile üretilmiş; her örnekte istek ve sahnenin kodu yer alıyor. Geliştiricinin paylaştığı örnekler arasında bahçeler, yapılar, mekanik nesneler ve voxel tarzı ortamlar var.
+
+Model ağırlıkları, veri seti ve teknik rapor Hugging Face üzerinden paylaşılmış. Daha küçük GGUF sürümleri de mevcut; bunlar uygun donanım ve yazılımla kendi bilgisayarında çalıştırılabiliyor. İstersen ek bir görsel bileşen yükleyerek referans görselden sahne üretmeyi de deneyebiliyorsun.
+
+Ufak bir ayar detayı.. Geliştirici, LM Studio kullananların MTP seçeneğini kapatmasını ve paylaştığı sistem talimatını kullanmasını öneriyor. Model hâlâ hata yapabiliyor; bazı sahneler yeniden deneme veya kodda düzeltme gerektirebiliyor.
+
+Bence büyük bir model kullanmadan da belirli bir işe odaklanarak neler yapılabileceğini göstermesi açısından güzel örnekler içeriyor bu çalışma. Sonuçları kendi bilgisayarında denemek isteyenler için bağlantıları aşağıya koydum.
+
+Kaynaklar:
+
+https://t.co/0BmVkqjLnf
+
+https://t.co/3cyvi87Uqm
 ```
 
 <a id="motion-graphics"></a>

@@ -2,11 +2,11 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-32 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
+33 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (5)
+- [3D scenes](#3d-scene) (6)
 - [Motion graphics](#motion-graphics) (1)
 - [Games](#game) (4)
 - [Product UI](#ui-demo) (3)
@@ -145,6 +145,32 @@ the 4 follow-ups that made the difference:
 the follow-ups weren't "make it better". each one named one specific thing that was wrong
 
 the first prompt picks the subject. the follow-ups pick the quality
+```
+
+### Air traffic control tower 3D scene in Three.js
+
+[@Jomolos](https://x.com/Jomolos/status/2116874305220886583) · 0:41 · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116874305220886583/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2116874305220886583?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+“Bana hareketli radarı olan bir hava trafik kontrol kulesi yap.” Küçük bir yapay zekâ modeline bunu söylüyorsun, o da tarayıcıda açabileceğin 3D sahnenin kodunu yazıyor. Tabi işler her zaman anlatıldığı kadar kolay olmuyor.
+
+Qwen3.5-4B-3D-Coder, CCORE adlı bağımsız bir geliştiricinin denemesi. Qwen3.5-4B temel alınarak özellikle Three.js ile interaktif 3D sahneler üretmesi için eğitilmiş. Resmî bir Qwen sürümü değil; geliştirilmesi devam eden erken bir önizleme.
+
+Modelin yaptığı şey doğrudan bir Blender dosyası üretmek değil. İsteğini HTML ve JavaScript koduna çeviriyor. Çıktıyı bir HTML dosyasına kaydedip açtığında, kodun oluşturduğu sahneyi tarayıcıda görebiliyorsun. Three.js örneklerde internet üzerinden yükleniyor; yani tek dosya olması her durumda çevrimdışı çalışacağı anlamına gelmiyor.
+
+Eğitim için hazırlanan veri setinde 4.146 sahne örneği bulunuyor. Bunlar MiniMax M3.1 Flash ile üretilmiş; her örnekte istek ve sahnenin kodu yer alıyor. Geliştiricinin paylaştığı örnekler arasında bahçeler, yapılar, mekanik nesneler ve voxel tarzı ortamlar var.
+
+Model ağırlıkları, veri seti ve teknik rapor Hugging Face üzerinden paylaşılmış. Daha küçük GGUF sürümleri de mevcut; bunlar uygun donanım ve yazılımla kendi bilgisayarında çalıştırılabiliyor. İstersen ek bir görsel bileşen yükleyerek referans görselden sahne üretmeyi de deneyebiliyorsun.
+
+Ufak bir ayar detayı.. Geliştirici, LM Studio kullananların MTP seçeneğini kapatmasını ve paylaştığı sistem talimatını kullanmasını öneriyor. Model hâlâ hata yapabiliyor; bazı sahneler yeniden deneme veya kodda düzeltme gerektirebiliyor.
+
+Bence büyük bir model kullanmadan da belirli bir işe odaklanarak neler yapılabileceğini göstermesi açısından güzel örnekler içeriyor bu çalışma. Sonuçları kendi bilgisayarında denemek isteyenler için bağlantıları aşağıya koydum.
+
+Kaynaklar:
+
+https://t.co/0BmVkqjLnf
+
+https://t.co/3cyvi87Uqm
 ```
 
 <a id="motion-graphics"></a>

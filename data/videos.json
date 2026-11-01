@@ -3882,5 +3882,60 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116538699240591368/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2116538699240591368"
+ },
+ {
+  "id": "2116814168758096286",
+  "title": "AI agent operating Mac Calculator via desktop accessibility API",
+  "title_zh": "AI智能体通过无障碍接口操作Mac计算器",
+  "category": "ui-demo",
+  "author": {
+   "handle": "HowDevelop",
+   "name": "Shivay Lamba"
+  },
+  "postUrl": "https://x.com/HowDevelop/status/2116814168758096286",
+  "createdAt": "2026-11-01T08:46:40.000Z",
+  "durationMs": 40126,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116814168758096286/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116814168758096286/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2116814168758096286"
+ },
+ {
+  "id": "2116846600186118264",
+  "title": "Benchmarking LLMs on autonomous satellite network resilience",
+  "title_zh": "多模型自主卫星网络韧性基准测试",
+  "category": "comparison",
+  "author": {
+   "handle": "AlicanKiraz0",
+   "name": "Alican Kiraz"
+  },
+  "postUrl": "https://x.com/AlicanKiraz0/status/2116846600186118264",
+  "createdAt": "2026-11-01T10:55:33.000Z",
+  "durationMs": 75566,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116846600186118264/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116846600186118264/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2116846600186118264"
+ },
+ {
+  "id": "2116874305220886583",
+  "title": "Air traffic control tower 3D scene in Three.js",
+  "title_zh": "Three.js 生成带旋转雷达的空中交通管制塔3D场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Jomolos",
+   "name": "Can Matrix"
+  },
+  "postUrl": "https://x.com/Jomolos/status/2116874305220886583",
+  "createdAt": "2026-11-01T12:45:38.000Z",
+  "durationMs": 40800,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116874305220886583/video.mp4",
+  "promptShared": true,
+  "promptText": "“Bana hareketli radarı olan bir hava trafik kontrol kulesi yap.” Küçük bir yapay zekâ modeline bunu söylüyorsun, o da tarayıcıda açabileceğin 3D sahnenin kodunu yazıyor. Tabi işler her zaman anlatıldığı kadar kolay olmuyor.\n\nQwen3.5-4B-3D-Coder, CCORE adlı bağımsız bir geliştiricinin denemesi. Qwen3.5-4B temel alınarak özellikle Three.js ile interaktif 3D sahneler üretmesi için eğitilmiş. Resmî bir Qwen sürümü değil; geliştirilmesi devam eden erken bir önizleme.\n\nModelin yaptığı şey doğrudan bir Blender dosyası üretmek değil. İsteğini HTML ve JavaScript koduna çeviriyor. Çıktıyı bir HTML dosyasına kaydedip açtığında, kodun oluşturduğu sahneyi tarayıcıda görebiliyorsun. Three.js örneklerde internet üzerinden yükleniyor; yani tek dosya olması her durumda çevrimdışı çalışacağı anlamına gelmiyor.\n\nEğitim için hazırlanan veri setinde 4.146 sahne örneği bulunuyor. Bunlar MiniMax M3.1 Flash ile üretilmiş; her örnekte istek ve sahnenin kodu yer alıyor. Geliştiricinin paylaştığı örnekler arasında bahçeler, yapılar, mekanik nesneler ve voxel tarzı ortamlar var.\n\nModel ağırlıkları, veri seti ve teknik rapor Hugging Face üzerinden paylaşılmış. Daha küçük GGUF sürümleri de mevcut; bunlar uygun donanım ve yazılımla kendi bilgisayarında çalıştırılabiliyor. İstersen ek bir görsel bileşen yükleyerek referans görselden sahne üretmeyi de deneyebiliyorsun.\n\nUfak bir ayar detayı.. Geliştirici, LM Studio kullananların MTP seçeneğini kapatmasını ve paylaştığı sistem talimatını kullanmasını öneriyor. Model hâlâ hata yapabiliyor; bazı sahneler yeniden deneme veya kodda düzeltme gerektirebiliyor.\n\nBence büyük bir model kullanmadan da belirli bir işe odaklanarak neler yapılabileceğini göstermesi açısından güzel örnekler içeriyor bu çalışma. Sonuçları kendi bilgisayarında denemek isteyenler için bağlantıları aşağıya koydum.\n\nKaynaklar:\n\nhttps://t.co/0BmVkqjLnf\n\nhttps://t.co/3cyvi87Uqm",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2116874305220886583/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2116874305220886583"
  }
 ]
