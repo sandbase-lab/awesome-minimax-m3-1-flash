@@ -2261,7 +2261,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113138389172224237/video.mp4",
   "promptShared": true,
   "promptText": "挖槽？！花叔这个 huashu-motion skills 是真的绝 🤯\n\n我之前也用过不少 motion skill，没一个能做到这个效果\n这次真的就一句话：“给我的项目做个产品宣传片\n它直接给 Pi Agent Desktop 出了一整支 30 秒的片子”\n\n最离谱的是模型用的是 MiniMax M3.1 Flash，现在在 OpenRouter 上免费爽用\n\n搭配 Claude Code 开 Ultra Code，模型这块一分钱没花\n\n花叔用的是 Opus 5.5，我用免费模型跑出来的片子也一点不虚 😭\n\n装上只要一行：\nnpx skills add alchaincyf/huashu-motion",
-  "featured": 6,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113138389172224237/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113138389172224237"
  },
@@ -2643,7 +2643,7 @@
   "durationMs": 59016,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113542688276693342/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2113542688276693342/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2113542688276693342"
  },
@@ -3972,5 +3972,41 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117220078014042167/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2117220078014042167"
+ },
+ {
+  "id": "2117664541773369682",
+  "title": "Creative challenges comparison between MiniMax and Claude",
+  "title_zh": "MiniMax与Claude动画创意挑战对比",
+  "category": "comparison",
+  "author": {
+   "handle": "magica_ai",
+   "name": "Magica"
+  },
+  "postUrl": "https://x.com/magica_ai/status/2117664541773369682",
+  "createdAt": "2026-11-03T17:05:45.000Z",
+  "durationMs": 24033,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117664541773369682/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117664541773369682/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2117664541773369682"
+ },
+ {
+  "id": "2117682479171870873",
+  "title": "A floating low-poly island with cottages and windmill",
+  "title_zh": "带有小屋和风车的低多边形悬浮小岛",
+  "category": "3d-scene",
+  "author": {
+   "handle": "AiwithZoaina",
+   "name": "ZoAina"
+  },
+  "postUrl": "https://x.com/AiwithZoaina/status/2117682479171870873",
+  "createdAt": "2026-11-03T18:17:02.000Z",
+  "durationMs": 68381,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117682479171870873/video.mp4",
+  "promptShared": false,
+  "featured": 6,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117682479171870873/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2117682479171870873"
  }
 ]
