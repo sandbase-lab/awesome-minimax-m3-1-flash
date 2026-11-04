@@ -3974,6 +3974,42 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2117220078014042167"
  },
  {
+  "id": "2117588912906608846",
+  "title": "Interactive 3D koi pond comparison in WebGPU",
+  "title_zh": "WebGPU交互式3D锦鲤池对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "BlairHayesAi",
+   "name": "Blair Hayes"
+  },
+  "postUrl": "https://x.com/BlairHayesAi/status/2117588912906608846",
+  "createdAt": "2026-11-03T12:05:14.000Z",
+  "durationMs": 23829,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117588912906608846/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117588912906608846/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2117588912906608846"
+ },
+ {
+  "id": "2117617800454012979",
+  "title": "A detailed miniature 3D island with cottages",
+  "title_zh": "带有温馨小屋的微缩3D岛屿世界",
+  "category": "3d-scene",
+  "author": {
+   "handle": "CanopyWave_CW",
+   "name": "Canopy Wave Developers"
+  },
+  "postUrl": "https://x.com/CanopyWave_CW/status/2117617800454012979",
+  "createdAt": "2026-11-03T14:00:01.000Z",
+  "durationMs": 27353,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117617800454012979/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117617800454012979/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2117617800454012979"
+ },
+ {
   "id": "2117664541773369682",
   "title": "Creative challenges comparison between MiniMax and Claude",
   "title_zh": "MiniMax与Claude动画创意挑战对比",
@@ -4008,5 +4044,23 @@
   "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117682479171870873/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2117682479171870873"
+ },
+ {
+  "id": "2117878125845413909",
+  "title": "A medieval village built in Three.js",
+  "title_zh": "使用Three.js构建的中世纪村庄",
+  "category": "3d-scene",
+  "author": {
+   "handle": "TokenGremlin",
+   "name": "Token Gremlin"
+  },
+  "postUrl": "https://x.com/TokenGremlin/status/2117878125845413909",
+  "createdAt": "2026-11-04T07:14:28.000Z",
+  "durationMs": 26843,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117878125845413909/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117878125845413909/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2117878125845413909"
  }
 ]
