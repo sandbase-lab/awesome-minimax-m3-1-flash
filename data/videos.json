@@ -4062,5 +4062,41 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117878125845413909/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2117878125845413909"
+ },
+ {
+  "id": "2118145808357064955",
+  "title": "Recreating Superman painting flight and Road Rash game",
+  "title_zh": "代码复刻超人名画穿越与暴力摩托游戏",
+  "category": "game",
+  "author": {
+   "handle": "GeekCatX",
+   "name": "知识猫"
+  },
+  "postUrl": "https://x.com/GeekCatX/status/2118145808357064955",
+  "createdAt": "2026-11-05T00:58:08.000Z",
+  "durationMs": 153000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2118145808357064955/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2118145808357064955/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2118145808357064955"
+ },
+ {
+  "id": "2118363622967517641",
+  "title": "Comparison of AI-invented sports",
+  "title_zh": "AI生成体育运动生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "sunra_ai",
+   "name": "Sunra"
+  },
+  "postUrl": "https://x.com/sunra_ai/status/2118363622967517641",
+  "createdAt": "2026-11-05T15:23:39.000Z",
+  "durationMs": 15072,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2118363622967517641/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2118363622967517641/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2118363622967517641"
  }
 ]
