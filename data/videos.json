@@ -4098,5 +4098,41 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2118363622967517641/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2118363622967517641"
+ },
+ {
+  "id": "2119205607190167568",
+  "title": "Walkable 3D medieval village generated with code",
+  "title_zh": "代码生成的可漫步3D中世纪村庄",
+  "category": "3d-scene",
+  "author": {
+   "handle": "TheodoreGrek",
+   "name": "Doc Bolt"
+  },
+  "postUrl": "https://x.com/TheodoreGrek/status/2119205607190167568",
+  "createdAt": "2026-11-07T23:09:24.000Z",
+  "durationMs": 2533,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2119205607190167568/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2119205607190167568/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2119205607190167568"
+ },
+ {
+  "id": "2119468435776389546",
+  "title": "Model comparison transforming scenes across visual perspectives",
+  "title_zh": "多模型视角转换能力对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "VulKan42069",
+   "name": "VulKan"
+  },
+  "postUrl": "https://x.com/VulKan42069/status/2119468435776389546",
+  "createdAt": "2026-11-08T16:33:47.000Z",
+  "durationMs": 19933,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2119468435776389546/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2119468435776389546/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2119468435776389546"
  }
 ]
