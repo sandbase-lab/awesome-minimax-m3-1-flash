@@ -4134,5 +4134,77 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2119468435776389546/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2119468435776389546"
+ },
+ {
+  "id": "2120459626667970865",
+  "title": "Playable 3D world of the lost city Helike",
+  "title_zh": "可玩的失落古城赫利克三维世界",
+  "category": "game",
+  "author": {
+   "handle": "snskritinaruka",
+   "name": "Sanskriti Naruka"
+  },
+  "postUrl": "https://x.com/snskritinaruka/status/2120459626667970865",
+  "createdAt": "2026-11-11T10:12:25.000Z",
+  "durationMs": 48366,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2120459626667970865/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2120459626667970865/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2120459626667970865"
+ },
+ {
+  "id": "2120537313469964394",
+  "title": "Coding comparison between Qwen4-Max-Preview and MiniMax M3.1 Flash",
+  "title_zh": "Qwen4-Max-Preview 与 MiniMax M3.1 Flash 代码对比",
+  "category": "comparison",
+  "author": {
+   "handle": "rewind02",
+   "name": "rewind"
+  },
+  "postUrl": "https://x.com/rewind02/status/2120537313469964394",
+  "createdAt": "2026-11-11T15:21:07.000Z",
+  "durationMs": 47966,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2120537313469964394/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2120537313469964394/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2120537313469964394"
+ },
+ {
+  "id": "2120544045797937387",
+  "title": "Comparison between Qwen4-Max-Preview and MiniMax M3.1 Flash",
+  "title_zh": "Qwen4-Max-Preview 与 MiniMax M3.1 Flash 生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "notjazii",
+   "name": "J A Z I I"
+  },
+  "postUrl": "https://x.com/notjazii/status/2120544045797937387",
+  "createdAt": "2026-11-11T15:47:52.000Z",
+  "durationMs": 33366,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2120544045797937387/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2120544045797937387/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2120544045797937387"
+ },
+ {
+  "id": "2120564282639176159",
+  "title": "High-speed river chase comparison between two models",
+  "title_zh": "两款模型生成的高速河流追逐场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "magica_ai",
+   "name": "Magica"
+  },
+  "postUrl": "https://x.com/magica_ai/status/2120564282639176159",
+  "createdAt": "2026-11-11T17:08:17.000Z",
+  "durationMs": 14033,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2120564282639176159/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2120564282639176159/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2120564282639176159"
  }
 ]
