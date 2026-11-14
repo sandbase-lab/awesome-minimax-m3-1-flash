@@ -4206,5 +4206,41 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2120564282639176159/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2120564282639176159"
+ },
+ {
+  "id": "2121123476358729929",
+  "title": "A ship sailing through ocean waves",
+  "title_zh": "航行在海浪中的船只测试",
+  "category": "3d-scene",
+  "author": {
+   "handle": "iam_elias1",
+   "name": "Elias"
+  },
+  "postUrl": "https://x.com/iam_elias1/status/2121123476358729929",
+  "createdAt": "2026-11-13T06:10:19.000Z",
+  "durationMs": 32168,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2121123476358729929/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2121123476358729929/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2121123476358729929"
+ },
+ {
+  "id": "2121267960597921793",
+  "title": "Smartwatch landing page generated from a prompt",
+  "title_zh": "单提示词生成的智能手表着陆页",
+  "category": "ui-demo",
+  "author": {
+   "handle": "beingsalluu",
+   "name": "SALLU"
+  },
+  "postUrl": "https://x.com/beingsalluu/status/2121267960597921793",
+  "createdAt": "2026-11-13T15:44:27.000Z",
+  "durationMs": 26316,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2121267960597921793/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2121267960597921793/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2121267960597921793"
  }
 ]
