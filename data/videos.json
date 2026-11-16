@@ -4260,5 +4260,41 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2121365299094028731/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2121365299094028731"
+ },
+ {
+  "id": "2121887801318985960",
+  "title": "E-commerce sneaker website with 3D product view",
+  "title_zh": "带有3D产品展示的运动鞋电商网站演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "adxtyahq",
+   "name": "aditya"
+  },
+  "postUrl": "https://x.com/adxtyahq/status/2121887801318985960",
+  "createdAt": "2026-11-15T08:47:29.000Z",
+  "durationMs": 35766,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2121887801318985960/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2121887801318985960/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2121887801318985960"
+ },
+ {
+  "id": "2122202737685471633",
+  "title": "Comparison of GPT-6 Astra and MiniMax M3.1 Flash",
+  "title_zh": "GPT-6 Astra与MiniMax M3.1 Flash的对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "GrowAIHub",
+   "name": "GrowAIHub"
+  },
+  "postUrl": "https://x.com/GrowAIHub/status/2122202737685471633",
+  "createdAt": "2026-11-16T05:38:55.000Z",
+  "durationMs": 18050,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2122202737685471633/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2122202737685471633/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2122202737685471633"
  }
 ]
