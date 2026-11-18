@@ -4296,5 +4296,41 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2122202737685471633/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2122202737685471633"
+ },
+ {
+  "id": "2122769923319669246",
+  "title": "Minimax M3.1 Flash support desk demo",
+  "title_zh": "Minimax M3.1 Flash 客服工作台演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "UNionMaxi3",
+   "name": "talkwire"
+  },
+  "postUrl": "https://x.com/UNionMaxi3/status/2122769923319669246",
+  "createdAt": "2026-11-17T19:12:43.000Z",
+  "durationMs": 45000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2122769923319669246/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2122769923319669246/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2122769923319669246"
+ },
+ {
+  "id": "2122776808307196159",
+  "title": "Benchmark comparison of M3.1 Flash and Gemini 3.8",
+  "title_zh": "M3.1 Flash 与 Gemini 3.8 基准对比",
+  "category": "comparison",
+  "author": {
+   "handle": "FireworksAI_HQ",
+   "name": "Fireworks"
+  },
+  "postUrl": "https://x.com/FireworksAI_HQ/status/2122776808307196159",
+  "createdAt": "2026-11-17T19:40:05.000Z",
+  "durationMs": 43000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2122776808307196159/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2122776808307196159/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2122776808307196159"
  }
 ]
