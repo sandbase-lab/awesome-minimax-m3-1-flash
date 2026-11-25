@@ -3938,24 +3938,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2117182932112801805"
  },
  {
-  "id": "2117212607044088032",
-  "title": "Iterative generation test with three prompts",
-  "title_zh": "三轮提示词迭代生成测试",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "semichenkko",
-   "name": "Semichenko"
-  },
-  "postUrl": "https://x.com/semichenkko/status/2117212607044088032",
-  "createdAt": "2026-11-02T11:09:56.000Z",
-  "durationMs": 13000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117212607044088032/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2117212607044088032/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2117212607044088032"
- },
- {
   "id": "2117220078014042167",
   "title": "A 3D model generated using Blender Python API",
   "title_zh": "通过Blender Python接口生成的3D模型",
@@ -4326,11 +4308,102 @@
   },
   "postUrl": "https://x.com/FireworksAI_HQ/status/2122776808307196159",
   "createdAt": "2026-11-17T19:40:05.000Z",
-  "durationMs": 43000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2122776808307196159/video.mp4",
   "promptShared": false,
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2122776808307196159/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2122776808307196159"
+ },
+ {
+  "id": "2123371311229534592",
+  "title": "Interactive 3D watch website built with Three.js",
+  "title_zh": "Three.js构建的交互式3D手表网站",
+  "category": "3d-scene",
+  "author": {
+   "handle": "mfranz_on",
+   "name": "Marco Franzon"
+  },
+  "postUrl": "https://x.com/mfranz_on/status/2123371311229534592",
+  "createdAt": "2026-11-19T11:02:25.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2123371311229534592/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2123371311229534592/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2123371311229534592"
+ },
+ {
+  "id": "2123715616506843570",
+  "title": "Great Wall prompt comparison between two models",
+  "title_zh": "两款AI模型生成长城提示词的效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "semichenkko",
+   "name": "Semichenko"
+  },
+  "postUrl": "https://x.com/semichenkko/status/2123715616506843570",
+  "createdAt": "2026-11-20T09:50:34.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2123715616506843570/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2123715616506843570/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2123715616506843570"
+ },
+ {
+  "id": "2123797286446825571",
+  "title": "Interactive sound field visualizer playable with keyboard",
+  "title_zh": "支持键盘演奏的实时声场可视化织机",
+  "category": "game",
+  "author": {
+   "handle": "Fei2411",
+   "name": "FeiZ"
+  },
+  "postUrl": "https://x.com/Fei2411/status/2123797286446825571",
+  "createdAt": "2026-11-20T15:15:05.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2123797286446825571/video.mp4",
+  "promptShared": true,
+  "promptText": "这是我之前拿 MiniMax M3.1 Flash 做的测试，方法仍然是 One shot 一个 html，让模型自由发挥，展示自己的设计能力，总消耗 33 Mtokens，缓存命中 99%\n\n最后交付了一个 “声场织机”，可以用键盘演奏，画面上会实时显示出声场。\n\n说实话结果是让我眼前一亮，不过每个人都有不同的感受，提示词都放评论区了，方便自己体验、复刻🫡\n\n尽管这个模型已经发布有一段时间了，实际上还是有一定的用武之地的，有时候就是会有点眼前一亮的设计。有订阅的话可以用起来，做点前端页面的设计绝对还是没啥问题的",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2123797286446825571/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2123797286446825571"
+ },
+ {
+  "id": "2123945496872165851",
+  "title": "Animated explainer on the design of QWERTY keyboards",
+  "title_zh": "关于QWERTY键盘设计历史的动画解说",
+  "category": "explainer",
+  "author": {
+   "handle": "airplanestar_",
+   "name": "airplanestar 𓂀"
+  },
+  "postUrl": "https://x.com/airplanestar_/status/2123945496872165851",
+  "createdAt": "2026-11-21T01:04:02.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2123945496872165851/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2123945496872165851/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2123945496872165851"
+ },
+ {
+  "id": "2124160229705163136",
+  "title": "Demonstration of a Mac video processing app",
+  "title_zh": "一款Mac视频处理应用的原型演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "erhanmeydan",
+   "name": "Erhan Meydan"
+  },
+  "postUrl": "https://x.com/erhanmeydan/status/2124160229705163136",
+  "createdAt": "2026-11-21T15:17:18.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2124160229705163136/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2124160229705163136/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2124160229705163136"
  }
 ]

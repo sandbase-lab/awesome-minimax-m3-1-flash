@@ -2,13 +2,13 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 32 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
+共 33 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (5)
 - [动效](#motion-graphics) (1)
-- [游戏](#game) (4)
+- [游戏](#game) (5)
 - [产品界面](#ui-demo) (3)
 - [讲解](#explainer) (1)
 - [发布片](#launch-film) (1)
@@ -241,6 +241,20 @@ MiniMax Code’s daily check-in: 400 points/day, 1,000 on day 4 and 7, 4,000 for
 What would you build with an AI agent?
 
 Try MiniMax Code:
+```
+
+### 支持键盘演奏的实时声场可视化织机
+
+[@Fei2411](https://x.com/Fei2411/status/2123797286446825571) · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2123797286446825571/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2123797286446825571?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+这是我之前拿 MiniMax M3.1 Flash 做的测试，方法仍然是 One shot 一个 html，让模型自由发挥，展示自己的设计能力，总消耗 33 Mtokens，缓存命中 99%
+
+最后交付了一个 “声场织机”，可以用键盘演奏，画面上会实时显示出声场。
+
+说实话结果是让我眼前一亮，不过每个人都有不同的感受，提示词都放评论区了，方便自己体验、复刻🫡
+
+尽管这个模型已经发布有一段时间了，实际上还是有一定的用武之地的，有时候就是会有点眼前一亮的设计。有订阅的话可以用起来，做点前端页面的设计绝对还是没啥问题的
 ```
 
 <a id="ui-demo"></a>

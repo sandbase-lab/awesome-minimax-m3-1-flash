@@ -2,13 +2,13 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-32 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
+33 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (5)
 - [Motion graphics](#motion-graphics) (1)
-- [Games](#game) (4)
+- [Games](#game) (5)
 - [Product UI](#ui-demo) (3)
 - [Explainers](#explainer) (1)
 - [Launch films](#launch-film) (1)
@@ -241,6 +241,20 @@ MiniMax Code’s daily check-in: 400 points/day, 1,000 on day 4 and 7, 4,000 for
 What would you build with an AI agent?
 
 Try MiniMax Code:
+```
+
+### Interactive sound field visualizer playable with keyboard
+
+[@Fei2411](https://x.com/Fei2411/status/2123797286446825571) · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2123797286446825571/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2123797286446825571?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+这是我之前拿 MiniMax M3.1 Flash 做的测试，方法仍然是 One shot 一个 html，让模型自由发挥，展示自己的设计能力，总消耗 33 Mtokens，缓存命中 99%
+
+最后交付了一个 “声场织机”，可以用键盘演奏，画面上会实时显示出声场。
+
+说实话结果是让我眼前一亮，不过每个人都有不同的感受，提示词都放评论区了，方便自己体验、复刻🫡
+
+尽管这个模型已经发布有一段时间了，实际上还是有一定的用武之地的，有时候就是会有点眼前一亮的设计。有订阅的话可以用起来，做点前端页面的设计绝对还是没啥问题的
 ```
 
 <a id="ui-demo"></a>
