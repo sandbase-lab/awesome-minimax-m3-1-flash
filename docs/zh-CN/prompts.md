@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 33 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
+共 34 条 MiniMax M3.1 Flash 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 M3.1 Flash 一键 **复刻**。第一次写 M3.1 Flash 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -12,7 +12,7 @@
 - [产品界面](#ui-demo) (3)
 - [讲解](#explainer) (1)
 - [发布片](#launch-film) (1)
-- [测试对比](#comparison) (17)
+- [测试对比](#comparison) (18)
 
 <a id="3d-scene"></a>
 
@@ -679,4 +679,19 @@ Input: $0.15 per million tokens.
 Output: $0.60 per million tokens.
 
 Not a benchmark, just one test, but a useful one.
+```
+
+### 松林篝火网页生成的双模型对比
+
+[@aapakari](https://x.com/aapakari/status/2125914972915900424) · [观看](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2125914972915900424/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2125914972915900424?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+One prompt, two models: "a campfire in a pine forest at night", as one web page.
+
+Gemini 4 Hydrogen (high): 1 min 21 s, $0.17
+MiniMax M3.1 Flash (default setting): 1 min 01 s, $0.014
+
+MiniMax was faster and over 12x cheaper.
+
+Which one would you ship?
 ```

@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-33 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
+34 MiniMax M3.1 Flash videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with M3.1 Flash on SandBase Lab. New to prompting M3.1 Flash? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -12,7 +12,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Product UI](#ui-demo) (3)
 - [Explainers](#explainer) (1)
 - [Launch films](#launch-film) (1)
-- [Tests & comparisons](#comparison) (17)
+- [Tests & comparisons](#comparison) (18)
 
 <a id="3d-scene"></a>
 
@@ -679,4 +679,19 @@ Input: $0.15 per million tokens.
 Output: $0.60 per million tokens.
 
 Not a benchmark, just one test, but a useful one.
+```
+
+### Campfire in a pine forest web page comparison
+
+[@aapakari](https://x.com/aapakari/status/2125914972915900424) · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2125914972915900424/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2125914972915900424?utm_source=github&utm_medium=docs&utm_campaign=awesome-minimax-m3-1-flash&utm_content=prompt-index)
+
+```text
+One prompt, two models: "a campfire in a pine forest at night", as one web page.
+
+Gemini 4 Hydrogen (high): 1 min 21 s, $0.17
+MiniMax M3.1 Flash (default setting): 1 min 01 s, $0.014
+
+MiniMax was faster and over 12x cheaper.
+
+Which one would you ship?
 ```

@@ -4423,5 +4423,42 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2125574526045933871/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2125574526045933871"
+ },
+ {
+  "id": "2125914972915900424",
+  "title": "Campfire in a pine forest web page comparison",
+  "title_zh": "松林篝火网页生成的双模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "aapakari",
+   "name": "Aapakari"
+  },
+  "postUrl": "https://x.com/aapakari/status/2125914972915900424",
+  "createdAt": "2026-11-26T11:30:01.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2125914972915900424/video.mp4",
+  "promptShared": true,
+  "promptText": "One prompt, two models: \"a campfire in a pine forest at night\", as one web page.\n\nGemini 4 Hydrogen (high): 1 min 21 s, $0.17\nMiniMax M3.1 Flash (default setting): 1 min 01 s, $0.014\n\nMiniMax was faster and over 12x cheaper.\n\nWhich one would you ship?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2125914972915900424/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2125914972915900424"
+ },
+ {
+  "id": "2125984965934383522",
+  "title": "Mac app for video subtitles and metadata generation",
+  "title_zh": "用于视频字幕和章节生成的Mac应用",
+  "category": "ui-demo",
+  "author": {
+   "handle": "erhanmeydan",
+   "name": "Erhan Meydan"
+  },
+  "postUrl": "https://x.com/erhanmeydan/status/2125984965934383522",
+  "createdAt": "2026-11-26T16:08:09.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2125984965934383522/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2125984965934383522/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/minimax-m3-1-flash/2125984965934383522"
  }
 ]
